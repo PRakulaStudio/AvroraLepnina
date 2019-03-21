@@ -43,9 +43,10 @@
                                         <div class="sp-dropdown sp-dropdown-main sp-menu-left" style="width: 240px;">
                                             <div class="sp-dropdown-inner">
                                                 <ul class="sp-dropdown-items">
-                                                    <li class="sp-menu-item sp-has-child"><a href="katalog/lights.html">Светильники</a>
+                                                    <li class="sp-menu-item"><a
+                                                                href="katalog/lights.html">Светильники</a>
                                                     </li>
-                                                    <li class="sp-menu-item small_child"><a
+                                                    <li class="sp-menu-item"><a
                                                                 href="/catalog/smooth-rods/">Гладкие
                                                             карнизы</a></li>
                                                     <li class="sp-menu-item"><a href="/catalog/cutting/">Порезки</a>

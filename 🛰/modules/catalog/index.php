@@ -41,7 +41,7 @@ if (isset($response['404'])) {
         'title' => $product['description'],
         'href' => 'https://' . $_SERVER['SERVER_NAME'] . '/catalog/' . $response['catalogData']['path'] . '/' . $product['path']
     ];
-    include $_ENV['ROOT'] . 'templates/catalog/product/index.php';
+    include $_ENV['ROOT'] . '/🛰/templates/catalog/product/index.php';
 } elseif (isset($response['catalogData'])) {
     $response['catalogData']['products'] = [];
     $items = DB::select('catalog_items', ['*'], '`category`=' . intval($response['catalogData']['id']));
@@ -52,13 +52,13 @@ if (isset($response['404'])) {
         'title' => $response['catalogData']['title'],
         'href' => 'https://' . $_SERVER['SERVER_NAME'] . '/catalog/' . $response['catalogData']['path']
     ];
-    include $_ENV['ROOT'] . 'templates/catalog/category/index.php';
+    include $_ENV['ROOT'] . '/🛰/templates/catalog/category/index.php';
 } else {
     $page = [
         'title' => 'Каталог',
         'href' => 'https://' . $_SERVER['SERVER_NAME'] . '/catalog/'
     ];
-    include $_ENV['ROOT'] . 'templates/catalog/index.php';
+    include $_ENV['ROOT'] . '/🛰/templates/catalog/index.php';
 }
 
 echo '<script>var catalogDebug = ' . json_encode($response, JSON_PRETTY_PRINT + JSON_UNESCAPED_UNICODE + JSON_UNESCAPED_SLASHES) . ';console.debug(catalogDebug)</script>';

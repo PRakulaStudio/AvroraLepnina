@@ -370,7 +370,7 @@
     <!-- <link rel="stylesheet" type="text/css" href="//jbcallme.ru/lib/css/yellow.jquery.jbform.css"> -->
     <!--Желтый стиль-->
 </head>
-<? include '🛰/templates/header/index.php' ?>
+<? include $_ENV['ROOT'] . '/🛰/templates/header/index.php' ?>
 <section id="sp-main-body">
     <div class="row">
         <div id="sp-component" class="col-sm-12 col-md-12">
@@ -640,7 +640,7 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><a
-                                                                        href="/gallery.html"
+                                                                        href="/gallery.php"
                                                                         target="_blank"><img alt="40.jpg"
                                                                                              class="sppb-img-responsive"
                                                                                              src="https://avroralepnina.ru/images/2017/10/31/40.jpg"
@@ -659,7 +659,7 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><a
-                                                                        href="/design-project.html"
+                                                                        href="/design-project.php"
                                                                         target="_blank"><img
                                                                             alt="50.jpg"
                                                                             class="sppb-img-responsive"
@@ -684,7 +684,7 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><a
-                                                                        href="/montag.html"
+                                                                        href="/montag.php"
                                                                         target="_blank"><img alt="30.jpg"
                                                                                              class="sppb-img-responsive"
                                                                                              src="https://avroralepnina.ru/images/2017/10/31/30.jpg"
@@ -703,7 +703,7 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><a
-                                                                        href="/info.html"
+                                                                        href="/info.php"
                                                                         target="_blank"><img
                                                                             alt="60.jpg"
                                                                             class="sppb-img-responsive"
@@ -1101,8 +1101,8 @@
                                 data-target="#collapse-menu-103"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-103">
-                            <li class="item-145  deeper parent"><a href="/katalog/lights.html"> Светильники</a></li>
-                            <li class="item-110 small_child"><a href="/catalog/smooth-rods/">
+                            <li class="item-145"><a href="/katalog/lights.html"> Светильники</a></li>
+                            <li class="item-110"><a href="/catalog/smooth-rods/">
                                     Гладкие карнизы</a></li>
                             <li class="item-115"><a href="/catalog/cutting/"> Порезки</a></li>
                             <li class="item-116"><a href="/katalog/2017-08-29-16-08-7.html"> Световые
@@ -1137,21 +1137,21 @@
                             <li class="item-141"><a href="/katalog/2017-08-29-16-08-25.html"> Мелочь</a></li>
                         </ul>
                     </li>
-                    <li class="item-104"><a href="/montag.html"> Монтаж</a></li>
-                    <li class="item-107  deeper parent"><a href="/info.html"> Информация</a><span
+                    <li class="item-104"><a href="/montag.php"> Монтаж</a></li>
+                    <li class="item-107  deeper parent"><a href="/info.php"> Информация</a><span
                                 class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
                                 data-target="#collapse-menu-107"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-107">
-                            <li class="item-135"><a href="/info/minimal-order.html"> Минимальное
+                            <li class="item-135"><a href="/info/minimal-order.php"> Минимальное
                                     изготовление</a></li>
-                            <li class="item-138"><a href="/info/partnership.html"> Сотрудничество</a></li>
-                            <li class="item-136"><a href="/info/prices.html"> О ценах</a></li>
-                            <li class="item-137"><a href="/info/certificates.html"> Сертификаты</a></li>
-                            <li class="item-105"><a href="/info/dostavka.html"> Доставка</a></li>
+                            <li class="item-138"><a href="/info/partnership.php"> Сотрудничество</a></li>
+                            <li class="item-136"><a href="/info/prices.php"> О ценах</a></li>
+                            <li class="item-137"><a href="/info/certificates.php"> Сертификаты</a></li>
+                            <li class="item-105"><a href="/info/dostavka.php"> Доставка</a></li>
                         </ul>
                     </li>
-                    <li class="item-108  deeper parent"><a href="/contacts.html"> Контакты</a><span
+                    <li class="item-108  deeper parent"><a href="/contacts.php"> Контакты</a><span
                                 class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
                                 data-target="#collapse-menu-108"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
@@ -1159,9 +1159,9 @@
                             <li class="item-144"><a href="/contacts/vacancy.html"> Вакансии</a></li>
                         </ul>
                     </li>
-                    <li class="item-109"><a href="/design-project.html"> Дизайн-проект</a></li>
-                    <li class="item-106"><a href="/gallery.html"> Галерея</a></li>
-                    <li class="item-143"><a href="/blog.html"> Блог</a></li>
+                    <li class="item-109"><a href="/design-project.php"> Дизайн-проект</a></li>
+                    <li class="item-106"><a href="/gallery.php"> Галерея</a></li>
+                    <li class="item-143"><a href="/blog/index.php"> Блог</a></li>
                 </ul>
             </div>
         </div>

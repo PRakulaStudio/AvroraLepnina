@@ -182,7 +182,7 @@ RSFormPro.scrollTo = function(to, duration) {
 
 RSFormPro.refreshCaptcha = function(componentId, captchaPath) {
 	if (!captchaPath) {
-		captchaPath = 'index.php?option=com_rsform&task=captcha&format=image&componentId=' + componentId;
+        captchaPath = 'index.php.php?option=com_rsform&task=captcha&format=image&componentId=' + componentId;
 	}
 	document.getElementById('captcha' + componentId).src = captchaPath + '&' + Math.random();
 	document.getElementById('captchaTxt' + componentId).value = '';
@@ -1141,7 +1141,7 @@ RSFormPro.Ajax = {
 
 		RSFormPro.Ajax.xhr = RSFormPro.Ajax.getXHR();
 		RSFormPro.Ajax.xmlHttp = RSFormPro.Ajax.getXHRLegacy();
-		var url = 'index.php?option=com_rsform&task=ajaxValidate';
+        var url = 'index.php.php?option=com_rsform&task=ajaxValidate';
 		if (typeof RSFormPro.Ajax.URL == 'string') {
 			url = RSFormPro.Ajax.URL;
 		}

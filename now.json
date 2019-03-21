@@ -40,7 +40,7 @@
     }
   ],
   "env": {
-    "ROOT": "/var/task/user/🛰/",
+    "ROOT": "/var/task/user",
     "MYSQL_SERVER": "@avrora-mysql-server",
     "MYSQL_USER": "@avrora-mysql-user",
     "MYSQL_DB": "@avrora-mysql-db",
