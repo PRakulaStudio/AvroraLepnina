@@ -722,7 +722,7 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><a
-                                                                        href="/dostavka.html"
+                                                                        href="/info/dostavka.php"
                                                                         target="_blank"><img alt="20.jpg"
                                                                                              class="sppb-img-responsive"
                                                                                              src="https://avroralepnina.ru/images/2017/10/31/20.jpg"
