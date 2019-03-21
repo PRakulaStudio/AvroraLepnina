@@ -4,7 +4,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <!-- head -->
-    <!--<base href="https://avroralepnina.ru/gallery" />-->
+    <!--<base href="https://avroralepnina.ru/contacts/vacancy" />-->
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta name="keywords"
           content="лепнина, лепной декор, интернет магазин лепнины из гипса,аврора декор, avrora dekor, гипсовая лепнина"/>
@@ -14,15 +14,17 @@
 
  "/>
     <meta content="🛰" name="generator"/>
-    <title>Галерея</title>
+    <title>Вакансии</title>
     <link href="https://avroralepnina.ru/templates/shaper_helix3/images/favicon.ico" rel="shortcut icon"
           type="image/vnd.microsoft.icon"/>
     <link href="https://avroralepnina.ru/templates/shaper_helix3/favicon.ico" rel="shortcut icon"
           type="image/vnd.microsoft.icon"/>
-    <link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet" type="text/css"/>
+    <link href="/components/com_sppagebuilder/assets/css/font-awesome.min.css" rel="stylesheet"
+          type="text/css"/>
     <link href="/components/com_sppagebuilder/assets/css/animate.min.css" rel="stylesheet" type="text/css"/>
     <link href="/components/com_sppagebuilder/assets/css/sppagebuilder.css" rel="stylesheet" type="text/css"/>
-    <link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet" type="text/css"/>
+    <link href="/components/com_sppagebuilder/assets/css/sppagecontainer.css" rel="stylesheet"
+          type="text/css"/>
     <link href="/components/com_sppagebuilder/assets/css/magnific-popup.css" rel="stylesheet" type="text/css"/>
     <link href="https://fonts.googleapis.com/css?family=Poiret+One:regular&amp;subset=cyrillic" rel="stylesheet"
           type="text/css"/>
@@ -33,19 +35,56 @@
     <link class="preset" href="/templates/shaper_helix3/css/presets/preset1.css" rel="stylesheet" type="text/css"/>
     <link href="/plugins/system/helix3/assets/css/pagebuilder.css" rel="stylesheet" type="text/css"/>
     <link href="/templates/shaper_helix3/css/frontend-edit.css" rel="stylesheet" type="text/css"/>
-    <style type="text/css">.sp-page-builder .page-content #section-id-1505973981826 {
+    <style type="text/css">.sp-page-builder .page-content #section-id-1528374106950 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2017/09/29/-11.jpg");
+            background-image: url("https://avroralepnina.ru/images/2018/06/07/jpg.");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
             background-position: 0 0;
         }
 
-        .sp-page-builder .page-content #section-id-1503044786780 {
+        .sp-page-builder .page-content #section-id-1528374958966 {
             margin: 0px 0px 0px 0px;
-            padding: 20px 0px 0px 0px;
+            padding: 15px 0px 15px 0px;
+        }
+
+        #sppb-addon-1528375245204 {
+            color: rgba(0, 0, 0, 1);
+        }
+
+        #sppb-addon-1528375245204 a {
+            color: rgba(0, 0, 0, 1);
+        }
+
+        #sppb-addon-1528375245204 .sppb-addon-title {
+            color: rgba(0, 0, 0, 1);
+            font-weight: bold;
+        }
+
+        #sppb-addon-1528375846783 {
+            color: rgba(26, 26, 26, 1);
+        }
+
+        #sppb-addon-1528375846783 a {
+            color: rgba(8, 8, 8, 1);
+        }
+
+        #sppb-addon-1528375846783 .sppb-addon-title {
+            font-weight: bold;
+        }
+
+        #sppb-addon-1528376330913 {
+            color: rgba(0, 0, 0, 1);
+        }
+
+        #sppb-addon-1528376330913 a {
+            color: rgba(8, 8, 8, 1);
+        }
+
+        #sppb-addon-1528376330913 .sppb-addon-title {
+            font-weight: bold;
         }
 
         body {
@@ -272,23 +311,7 @@
     <script src="/templates/shaper_helix3/js/main.js" type="text/javascript"></script>
     <script src="/templates/shaper_helix3/js/frontend-edit.js" type="text/javascript"></script>
     <script type="text/javascript">
-        jQuery(function ($) {
-            $("#sppb-addon-1504026999571 ul li").magnificPopup({
-                delegate: "a",
-                type: "image",
-                mainClass: "mfp-no-margins mfp-with-zoom",
-                gallery: {
-                    enabled: true
-                },
-                image: {
-                    verticalFit: true
-                },
-                zoom: {
-                    enabled: true,
-                    duration: 300
-                }
-            });
-        })
+
         var sp_preloader = '0';
 
         var sp_gotop = '1';
@@ -296,9 +319,9 @@
         var sp_offanimation = 'default';
 
     </script>
-    <meta content="Галерея" property="og:title"/>
+    <meta content="Вакансии" property="og:title"/>
     <meta content="website" property="og:type"/>
-    <meta content="https://avroralepnina.ru/gallery" property="og:url"/>
+    <meta content="https://avroralepnina.ru/contacts/vacancy" property="og:url"/>
 
     <meta name="yandex-verification" content="6064992f70efc2bb"/>
     <link href="/manifest.json" rel="manifest"/>
@@ -323,23 +346,28 @@
                 <div id="system-message-container">
                 </div>
 
-                <div id="sp-page-builder" class="sp-page-builder  page-5">
+                <div id="sp-page-builder" class="sp-page-builder  page-40">
 
 
                     <div class="page-content">
-                        <section class="sppb-section " id="section-id-1505973981826">
+                        <section class="sppb-section " id="section-id-1528374106950">
                             <div class="sppb-row-container">
                                 <div class="sppb-row">
-                                    <div class="sppb-col-md-12">
-                                        <div class="sppb-column" id="column-id-1505973981827">
+                                    <div class="sppb-col-md-4">
+                                        <div class="sppb-column" id="column-id-1528374799133">
+                                            <div class="sppb-column-addons"></div>
+                                        </div>
+                                    </div>
+                                    <div class="sppb-col-md-4">
+                                        <div class="sppb-column" id="column-id-1528374958972">
                                             <div class="sppb-column-addons">
-                                                <div class="clearfix" id="sppb-addon-1505900916757">
-                                                    <div class="sppb-addon sppb-addon-single-image sppb-text-center head">
+                                                <div class="clearfix" id="sppb-addon-1528374289270">
+                                                    <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><img
-                                                                        alt="gallery.jpg"
+                                                                        alt="vakansii_avrora.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/09/20/gallery.jpg"
+                                                                        src="https://avroralepnina.ru/images/2018/06/07/vakansii_avrora.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
@@ -347,100 +375,70 @@
                                             </div>
                                         </div>
                                     </div>
+                                    <div class="sppb-col-md-4">
+                                        <div class="sppb-column" id="column-id-1528374958973">
+                                            <div class="sppb-column-addons"></div>
+                                        </div>
+                                    </div>
                                 </div>
                             </div>
                         </section>
-                        <section class="sppb-section " id="section-id-1503044786780">
+                        <section class="sppb-section " id="section-id-1528374958966">
                             <div class="sppb-row-container">
                                 <div class="sppb-row">
                                     <div class="sppb-col-md-12">
-                                        <div class="sppb-column" id="column-id-1503044786781">
+                                        <div class="sppb-column" id="column-id-1528374958967">
                                             <div class="sppb-column-addons">
-                                                <div class="clearfix" id="sppb-addon-1504026999571">
-                                                    <div class="sppb-addon sppb-addon-gallery ">
-                                                        <div class="sppb-addon-content">
-                                                            <ul class="sppb-gallery clearfix">
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/3.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/3.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/131.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/131.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/16.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/16.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/62.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/62.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/71.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/71.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/82.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/82.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/121.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/121.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/92.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/92.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/15.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/15.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                                <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/4.jpg"><img
-                                                                                alt=""
-                                                                                class="sppb-img-responsive"
-                                                                                height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/4.jpg"
-                                                                                style="width:200px;"
-                                                                                width="200"></a></li>
-                                                            </ul>
+                                                <div class="clearfix" id="sppb-addon-1528375245204">
+                                                    <div class="sppb-addon sppb-addon-text-block sppb-text-left ">
+                                                        <h3
+                                                                class="sppb-addon-title">Мастер по изготовлению
+                                                            гипсовых моделей (г.Москва
+                                                            // г.Сочи // г.Оренбург-Орск)</h3>
+                                                        <div class="sppb-addon-content"><span
+                                                                    style="font-size: 14pt;">Мужчина/женщина, желательно с опытом работы с гипсовыми изделями. Без вредным привычек.</span><br/><br/><span
+                                                                    style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
+                                                                    style="font-size: 14pt;">тел. в г.Сочи 8(966) 775 73 35</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8(3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">или написать на эл.почту <a
+                                                                        class="__cf_email__"
+                                                                        data-cfemail="3a5b4c4855485b565f4a5453545b7a435b545e5f4214484f"
+                                                                        href="/cdn-cgi/l/email-protection.html">[email&#160;protected]</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix" id="sppb-addon-1528375846783">
+                                                    <div class="sppb-addon sppb-addon-text-block sppb-text-left ">
+                                                        <h3
+                                                                class="sppb-addon-title">Мастер протяжного цеха
+                                                            (г.Москва // г.Сочи //
+                                                            г.Оренбург-Орск)</h3>
+                                                        <div class="sppb-addon-content"><span
+                                                                    style="font-size: 14pt;">Мужчина, желательно с опытом работы с гипсовыми изделиями. Без вредных привычек.</span><br/><br/><span
+                                                                    style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
+                                                                    style="font-size: 14pt;">тел. в г.Сочи 8(966) 775 73 35</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8(3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">или написать на эл.почту <a
+                                                                        class="__cf_email__"
+                                                                        data-cfemail="254453574a57444940554b4c4b44655c444b41405d0b5750"
+                                                                        href="/cdn-cgi/l/email-protection.html">[email&#160;protected]</a></span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix" id="sppb-addon-1528376330913">
+                                                    <div class="sppb-addon sppb-addon-text-block sppb-text-left ">
+                                                        <h3
+                                                                class="sppb-addon-title">Монтажники (г.Москва
+                                                            //г.Сочи)</h3>
+                                                        <div class="sppb-addon-content"><span
+                                                                    style="font-size: 14pt;">Мужчина, опыт работы по монтажу гипсовой лепнины обязательно. Наличие инструмента.</span><br/><br/><span
+                                                                    style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
+                                                                    style="font-size: 14pt;">тел. в г.Сочи 8 (966) 775 73 35</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8 (3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">или написать на эл.почту <a
+                                                                        class="__cf_email__"
+                                                                        data-cfemail="88e9fefae7fae9e4edf8e6e1e6e9c8f1e9e6ecedf0a6fafd"
+                                                                        href="/cdn-cgi/l/email-protection.html">[email&#160;protected]</a></span>
                                                         </div>
                                                     </div>
                                                 </div>

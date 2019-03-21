@@ -118,72 +118,64 @@
         <div class="sp-module "><h3 class="sp-module-title">Навигация</h3>
             <div class="sp-module-content">
                 <ul class="nav menu">
-                    <li class="item-101"><a href="/index.php"> Главная</a></li>
-                    <li class="item-103  current active deeper parent"><a href="katalog.html"> Каталог</a><span
+                    <li class="item-101"><a href="/"> Главная</a></li>
+                    <li class="item-103  current active deeper parent"><a href="/catalog/"> Каталог</a><span
                                 class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
                                 data-target="#collapse-menu-103"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-103">
-                            <li class="item-145  deeper parent"><a href="katalog/lights.html"> Светильники</a><span
-                                        class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
-                                        data-target="#collapse-menu-145"><i class="open-icon fa fa-angle-down"></i><i
-                                            class="close-icon fa fa-angle-up"></i></span>
-                                <ul class="collapse" id="collapse-menu-145">
-                                    <li class="item-147"><a href="katalog/lights/podrobno.html"> Подробно</a></li>
-                                </ul>
-                            </li>
-                            <li class="item-110 small_child"><a href="katalog/2017-08-29-16-08-01.html"> Гладкие
-                                    карнизы</a></li>
-                            <li class="item-115"><a href="katalog/2017-08-29-16-08-6.html"> Порезки</a></li>
+                            <li class="item-145"><a href="/katalog/lights.html"> Светильники</a></li>
+                            <li class="item-110"><a href="/catalog/smooth-rods/"> Гладкие карнизы</a></li>
+                            <li class="item-115"><a href="/catalog/cutting/"> Порезки</a></li>
                             <li class="item-116"><a href="katalog/2017-08-29-16-08-7.html"> Световые карнизы</a></li>
-                            <li class="item-118"><a href="katalog/2017-08-29-16-08-9.html"> Углы</a></li>
-                            <li class="item-117"><a href="katalog/2017-08-29-16-08-8.html"> Потолочные композиции</a>
+                            <li class="item-118"><a href="/catalog/corners/"> Углы</a></li>
+                            <li class="item-117"><a href="/catalog/ceiling-tracks/"> Потолочные композиции</a>
                             </li>
                             <li class="item-119"><a href="katalog/2017-08-29-16-08-10.html"> Декоративные рамки</a></li>
-                            <li class="item-120"><a href="katalog/2017-08-29-16-08-11.html"> Средники</a></li>
-                            <li class="item-121"><a href="katalog/2017-08-29-16-08-12.html"> Декоративные камины</a>
+                            <li class="item-120"><a href="/catalog/the-gutters/"> Средники</a></li>
+                            <li class="item-121"><a href="/catalog/decorative-fireplaces/"> Декоративные камины</a>
                             </li>
-                            <li class="item-123"><a href="katalog/2017-08-29-16-08-14.html"> 3D-панели</a></li>
-                            <li class="item-124"><a href="katalog/2017-08-29-16-08-15.html"> Панно</a></li>
-                            <li class="item-125"><a href="katalog/2017-08-29-16-08-16.html"> Кронштейны</a></li>
-                            <li class="item-128"><a href="katalog/2017-08-29-16-08-19.html"> Колонны</a></li>
-                            <li class="item-129"><a href="katalog/2017-08-29-16-08-20.html"> Пилястры</a></li>
-                            <li class="item-130"><a href="katalog/2017-08-29-16-08-21.html"> Плинтусы</a></li>
-                            <li class="item-131"><a href="katalog/2017-08-29-16-08-22.html"> Вентиляционные решетки</a>
+                            <li class="item-123"><a href="/catalog/3d-panel/"> 3D-панели</a></li>
+                            <li class="item-124"><a href="/catalog/panels/"> Панно</a></li>
+                            <li class="item-125"><a href="/catalog/brackets/"> Кронштейны</a></li>
+                            <li class="item-128"><a href="/catalog/columns/"> Колонны</a></li>
+                            <li class="item-129"><a href="/catalog/pilasters/"> Пилястры</a></li>
+                            <li class="item-130"><a href="/catalog/baseboards/"> Плинтусы</a></li>
+                            <li class="item-131"><a href="/catalog/ventilation-grille/"> Вентиляционные решетки</a>
                             </li>
-                            <li class="item-111"><a href="katalog/2017-08-29-16-08-2.html"> Карнизы с рисунком</a></li>
-                            <li class="item-112"><a href="katalog/2017-08-29-16-08-3.html"> Розетки</a></li>
-                            <li class="item-113"><a href="katalog/2017-08-29-16-08-4.html"> Молдинги</a></li>
-                            <li class="item-114"><a href="katalog/2017-08-29-16-08-5.html"> Фризы</a></li>
+                            <li class="item-111"><a href="/catalog/karinizi-with-figure/"> Карнизы с рисунком</a></li>
+                            <li class="item-112"><a href="/catalog/rozetki/"> Розетки</a></li>
+                            <li class="item-113"><a href="/catalog/arched-frame/"> Молдинги</a></li>
+                            <li class="item-114"><a href="/catalog/friezes/"> Фризы</a></li>
                             <li class="item-139"><a href="katalog/2017-08-29-16-08-23.html"> Фасадный декор</a></li>
                             <li class="item-140"><a href="katalog/2017-08-29-16-08-24.html"> Купола и кессоны</a></li>
                             <li class="item-141"><a href="katalog/2017-08-29-16-08-25.html"> Мелочь</a></li>
                         </ul>
                     </li>
-                    <li class="item-104"><a href="montag.html"> Монтаж</a></li>
-                    <li class="item-107  deeper parent"><a href="info.html"> Информация</a><span
+                    <li class="item-104"><a href="/montag.php"> Монтаж</a></li>
+                    <li class="item-107  deeper parent"><a href="/info.php"> Информация</a><span
                                 class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
                                 data-target="#collapse-menu-107"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-107">
-                            <li class="item-135"><a href="info/minimal-order.html"> Минимальное изготовление</a></li>
-                            <li class="item-138"><a href="info/partnership.html"> Сотрудничество</a></li>
-                            <li class="item-136"><a href="info/prices.html"> О ценах</a></li>
-                            <li class="item-137"><a href="info/certificates.html"> Сертификаты</a></li>
-                            <li class="item-105"><a href="info/dostavka.html"> Доставка</a></li>
+                            <li class="item-135"><a href="/info/minimal-order.php"> Минимальное изготовление</a></li>
+                            <li class="item-138"><a href="/info/partnership.php"> Сотрудничество</a></li>
+                            <li class="item-136"><a href="/info/prices.php"> О ценах</a></li>
+                            <li class="item-137"><a href="/info/certificates.php"> Сертификаты</a></li>
+                            <li class="item-105"><a href="/info/dostavka.php"> Доставка</a></li>
                         </ul>
                     </li>
-                    <li class="item-108  deeper parent"><a href="contacts.html"> Контакты</a><span
+                    <li class="item-108  deeper parent"><a href="/contacts.php"> Контакты</a><span
                                 class="offcanvas-menu-toggler collapsed" data-toggle="collapse"
                                 data-target="#collapse-menu-108"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-108">
-                            <li class="item-144"><a href="contacts/vacancy.html"> Вакансии</a></li>
+                            <li class="item-144"><a href="/contacts/vacancy.php"> Вакансии</a></li>
                         </ul>
                     </li>
-                    <li class="item-109"><a href="design-project.html"> Дизайн-проект</a></li>
-                    <li class="item-106"><a href="gallery.html"> Галерея</a></li>
-                    <li class="item-143"><a href="blog.html"> Блог</a></li>
+                    <li class="item-109"><a href="/design-project.php"> Дизайн-проект</a></li>
+                    <li class="item-106"><a href="/gallery.php"> Галерея</a></li>
+                    <li class="item-143"><a href="/blog/"> Блог</a></li>
                 </ul>
             </div>
         </div>

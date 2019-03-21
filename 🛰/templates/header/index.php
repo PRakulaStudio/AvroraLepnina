@@ -44,20 +44,21 @@
                                             <div class="sp-dropdown-inner">
                                                 <ul class="sp-dropdown-items">
                                                     <li class="sp-menu-item"><a
-                                                                href="katalog/lights.html">Светильники</a>
+                                                                href="/katalog/lights.html">Светильники</a>
                                                     </li>
                                                     <li class="sp-menu-item"><a
                                                                 href="/catalog/smooth-rods/">Гладкие
                                                             карнизы</a></li>
                                                     <li class="sp-menu-item"><a href="/catalog/cutting/">Порезки</a>
                                                     </li>
-                                                    <li class="sp-menu-item"><a href="katalog/2017-08-29-16-08-7.html">Световые
+                                                    <li class="sp-menu-item"><a href="/katalog/2017-08-29-16-08-7.html">Световые
                                                             карнизы</a></li>
                                                     <li class="sp-menu-item"><a href="/catalog/corners/">Углы</a>
                                                     </li>
                                                     <li class="sp-menu-item"><a href="/catalog/ceiling-tracks/">Потолочные
                                                             композиции</a></li>
-                                                    <li class="sp-menu-item"><a href="katalog/2017-08-29-16-08-10.html">Декоративные
+                                                    <li class="sp-menu-item"><a
+                                                                href="/katalog/2017-08-29-16-08-10.html">Декоративные
                                                             рамки</a></li>
                                                     <li class="sp-menu-item"><a
                                                                 href="/catalog/the-gutters/">Средники</a>
@@ -87,47 +88,50 @@
                                                     </li>
                                                     <li class="sp-menu-item"><a href="/catalog/friezes/">Фризы</a>
                                                     </li>
-                                                    <li class="sp-menu-item"><a href="katalog/2017-08-29-16-08-23.html">Фасадный
+                                                    <li class="sp-menu-item"><a
+                                                                href="/katalog/2017-08-29-16-08-23.html">Фасадный
                                                             декор</a></li>
-                                                    <li class="sp-menu-item"><a href="katalog/2017-08-29-16-08-24.html">Купола
+                                                    <li class="sp-menu-item"><a
+                                                                href="/katalog/2017-08-29-16-08-24.html">Купола
                                                             и кессоны</a></li>
-                                                    <li class="sp-menu-item"><a href="katalog/2017-08-29-16-08-25.html">Мелочь</a>
+                                                    <li class="sp-menu-item"><a
+                                                                href="/katalog/2017-08-29-16-08-25.html">Мелочь</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="sp-menu-item"><a href="montag.html">Монтаж</a></li>
-                                    <li class="sp-menu-item sp-has-child"><a href="info.html">Информация</a>
+                                    <li class="sp-menu-item"><a href="/montag.php">Монтаж</a></li>
+                                    <li class="sp-menu-item sp-has-child"><a href="/info.php">Информация</a>
                                         <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;">
                                             <div class="sp-dropdown-inner">
                                                 <ul class="sp-dropdown-items">
-                                                    <li class="sp-menu-item"><a href="info/minimal-order.html">Минимальное
+                                                    <li class="sp-menu-item"><a href="/info/minimal-order.php">Минимальное
                                                             изготовление</a></li>
-                                                    <li class="sp-menu-item"><a href="info/partnership.html">Сотрудничество</a>
+                                                    <li class="sp-menu-item"><a href="/info/partnership.php">Сотрудничество</a>
                                                     </li>
-                                                    <li class="sp-menu-item"><a href="info/prices.html">О ценах</a></li>
-                                                    <li class="sp-menu-item"><a href="info/certificates.html">Сертификаты</a>
+                                                    <li class="sp-menu-item"><a href="/info/prices.php">О ценах</a></li>
+                                                    <li class="sp-menu-item"><a href="/info/certificates.php">Сертификаты</a>
                                                     </li>
-                                                    <li class="sp-menu-item"><a href="info/dostavka.html">Доставка</a>
+                                                    <li class="sp-menu-item"><a href="/info/dostavka.php">Доставка</a>
                                                     </li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="sp-menu-item sp-has-child"><a href="contacts.html">Контакты</a>
+                                    <li class="sp-menu-item sp-has-child"><a href="/contacts.php">Контакты</a>
                                         <div class="sp-dropdown sp-dropdown-main sp-menu-right" style="width: 240px;">
                                             <div class="sp-dropdown-inner">
                                                 <ul class="sp-dropdown-items">
                                                     <li class="sp-menu-item"><a
-                                                                href="contacts/vacancy.html">Вакансии</a></li>
+                                                                href="/contacts/vacancy.php">Вакансии</a></li>
                                                 </ul>
                                             </div>
                                         </div>
                                     </li>
-                                    <li class="sp-menu-item"><a href="design-project.html">Дизайн-проект</a></li>
-                                    <li class="sp-menu-item"><a href="gallery.html">Галерея</a></li>
-                                    <li class="sp-menu-item"><a href="blog.html">Блог</a></li>
+                                    <li class="sp-menu-item"><a href="/design-project.php">Дизайн-проект</a></li>
+                                    <li class="sp-menu-item"><a href="/gallery.php">Галерея</a></li>
+                                    <li class="sp-menu-item"><a href="/blog/">Блог</a></li>
                                 </ul>
                             </div>
                         </div>
