@@ -26,9 +26,7 @@
       "use": "@now/static"
     }
   ],
-  "alias": [
-    "avroralepnina.projects.prakula.ru"
-  ],
+  "alias": "avroralepnina.projects.prakula.ru",
   "routes": [
     {
       "src": "/catalog",
