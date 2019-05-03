@@ -1,0 +1,47 @@
+{
+  "version": 2,
+  "name": "AvroraLepnina",
+  "scope": "prakula",
+  "regions": [
+    "bru1"
+  ],
+  "public": false,
+  "builds": [
+    {
+      "src": "*.php",
+      "use": "now-php-with-mysqli",
+      "config": {
+        "maxLambdaSize": "100mb"
+      }
+    },
+    {
+      "src": "**/**.php",
+      "use": "now-php-with-mysqli",
+      "config": {
+        "maxLambdaSize": "100mb"
+      }
+    },
+    {
+      "src": "**",
+      "use": "@now/static"
+    }
+  ],
+  "alias": "avroralepnina.projects.prakula.ru",
+  "routes": [
+    {
+      "src": "/catalog",
+      "dest": "/🛰/modules/catalog/index.php"
+    },
+    {
+      "src": "/catalog/(.*)",
+      "dest": "/🛰/modules/catalog/index.php?url=$1"
+    }
+  ],
+  "env": {
+    "ROOT": "/var/task/user",
+    "MYSQL_SERVER": "@avrora-mysql-server",
+    "MYSQL_USER": "@avrora-mysql-user",
+    "MYSQL_DB": "@avrora-mysql-db",
+    "MYSQL_PASS": "@avrora-mysql-password"
+  }
+}
