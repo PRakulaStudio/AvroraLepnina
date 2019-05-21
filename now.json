@@ -3,9 +3,7 @@
   "name": "AvroraLepnina",
   "scope": "prakula",
   "regions": [
-    "bru1",
-    "arn1",
-    "cdg1"
+    "bru1"
   ],
   "public": false,
   "builds": [
