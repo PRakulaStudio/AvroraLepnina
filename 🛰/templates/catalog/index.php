@@ -185,7 +185,7 @@
                                                                             href="/catalog/ceiling-tracks/"><img
                                                                                 alt=".jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2017/09/27/.jpg"
+                                                                                src="https://avroralepnina.ru/images/2017/09/27/ceiling-tracks.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
