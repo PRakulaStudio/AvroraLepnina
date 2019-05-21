@@ -10,12 +10,12 @@
                         <div class="sp-column logo_img">
                             <div class="logo"><a href="/"><img alt="lepnina"
                                                                class="sp-default-logo hidden-xs"
-                                                               src="https://avroralepnina.ru/images/logo_new.jpg"><img
+                                                               src="https://static.avroralepnina.ru/images/logo_new.jpg"><img
                                             alt="lepnina" class="sp-retina-logo hidden-xs" height="230"
-                                            src="https://avroralepnina.ru/images/logo_new.jpg"
+                                            src="https://static.avroralepnina.ru/images/logo_new.jpg"
                                             width="500"><img alt="lepnina"
                                                              class="sp-default-logo visible-xs"
-                                                             src="https://avroralepnina.ru/images/rsz_logo_new.jpg"></a>
+                                                             src="https://static.avroralepnina.ru/images/rsz_logo_new.jpg"></a>
                             </div>
                         </div>
                     </div>

@@ -405,7 +405,7 @@
                                                         <div class="sppb-carousel-inner 0">
                                                             <div class="sppb-item sppb-item-has-bg active"><img
                                                                         alt="Большой выбор готовых элементов."
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/jpg1.">
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/jpg1.">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div>
                                                                         <div>
@@ -436,7 +436,7 @@
                                                                                     <div class="sppb-text-right">
                                                                                         <img alt="Большой выбор готовых элементов."
                                                                                              class="sppb-img-reponsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/11.jpg">
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/11.jpg">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -446,7 +446,7 @@
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img
                                                                         alt="Потолочные композиции"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/jpg1.">
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/jpg1.">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div>
                                                                         <div>
@@ -475,7 +475,7 @@
                                                                                     <div class="sppb-text-right">
                                                                                         <img alt="Потолочные композиции"
                                                                                              class="sppb-img-reponsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/33.jpg">
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/33.jpg">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -485,7 +485,7 @@
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img
                                                                         alt="Эксклюзивный лепной декор по Вашим эскизам и размерам"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/jpg1.">
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/jpg1.">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div>
                                                                         <div>
@@ -504,7 +504,7 @@
                                                                                         <img
                                                                                                 alt="Эксклюзивный лепной декор по Вашим эскизам и размерам"
                                                                                                 class="sppb-img-reponsive"
-                                                                                                src="https://avroralepnina.ru/images/2017/10/31/66.jpg">
+                                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/66.jpg">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -514,7 +514,7 @@
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img
                                                                         alt="3D панели от простых элементов до эксклюзивных"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/jpg1.">
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/jpg1.">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div>
                                                                         <div>
@@ -545,7 +545,7 @@
                                                                                         <img
                                                                                                 alt="3D панели от простых элементов до эксклюзивных"
                                                                                                 class="sppb-img-reponsive"
-                                                                                                src="https://avroralepnina.ru/images/2017/10/31/88.jpg">
+                                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/88.jpg">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -555,7 +555,7 @@
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img
                                                                         alt="Разработка дизайн-проекта и воплощение"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/jpg1.">
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/jpg1.">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div>
                                                                         <div>
@@ -584,7 +584,7 @@
                                                                                     <div class="sppb-text-right">
                                                                                         <img alt="Разработка дизайн-проекта и воплощение"
                                                                                              class="sppb-img-reponsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/09/22/13.jpg">
+                                                                                             src="https://static.avroralepnina.ru/images/2017/09/22/13.jpg">
                                                                                     </div>
                                                                                 </div>
                                                                             </div>
@@ -621,7 +621,7 @@
                                                                         href="/catalog/"
                                                                         target="_blank"><img alt="10.jpg"
                                                                                              class="sppb-img-responsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/10.jpg"
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/10.jpg"
                                                                                              title=""></a>
                                                             </div>
                                                         </div>
@@ -640,7 +640,7 @@
                                                                         href="/gallery.php"
                                                                         target="_blank"><img alt="40.jpg"
                                                                                              class="sppb-img-responsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/40.jpg"
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/40.jpg"
                                                                                              title=""></a>
                                                             </div>
                                                         </div>
@@ -660,7 +660,7 @@
                                                                         target="_blank"><img
                                                                             alt="50.jpg"
                                                                             class="sppb-img-responsive"
-                                                                            src="https://avroralepnina.ru/images/2017/10/31/50.jpg"
+                                                                            src="https://static.avroralepnina.ru/images/2017/10/31/50.jpg"
                                                                             title=""></a></div>
                                                         </div>
                                                     </div>
@@ -684,7 +684,7 @@
                                                                         href="/montag.php"
                                                                         target="_blank"><img alt="30.jpg"
                                                                                              class="sppb-img-responsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/30.jpg"
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/30.jpg"
                                                                                              title=""></a>
                                                             </div>
                                                         </div>
@@ -704,7 +704,7 @@
                                                                         target="_blank"><img
                                                                             alt="60.jpg"
                                                                             class="sppb-img-responsive"
-                                                                            src="https://avroralepnina.ru/images/2017/10/31/60.jpg"
+                                                                            src="https://static.avroralepnina.ru/images/2017/10/31/60.jpg"
                                                                             title=""></a></div>
                                                         </div>
                                                     </div>
@@ -722,7 +722,7 @@
                                                                         href="/info/dostavka.php"
                                                                         target="_blank"><img alt="20.jpg"
                                                                                              class="sppb-img-responsive"
-                                                                                             src="https://avroralepnina.ru/images/2017/10/31/20.jpg"
+                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/20.jpg"
                                                                                              title=""></a>
                                                             </div>
                                                         </div>
@@ -781,7 +781,7 @@
                                                         <div class="sppb-carousel-inner sppb-text-center">
                                                             <div class="sppb-item sppb-item-has-bg active"><img
                                                                         alt=""
-                                                                        src="https://avroralepnina.ru/images/2018/07/06/bolshoi_.jpg">
+                                                                        src="https://static.avroralepnina.ru/images/2018/07/06/bolshoi_.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>
@@ -818,7 +818,7 @@
                                                         <div class="sppb-carousel-inner sppb-text-center">
                                                             <div class="sppb-item sppb-item-has-bg active"><img
                                                                         alt=""
-                                                                        src="https://avroralepnina.ru/images/2018/07/06/101group.jpg">
+                                                                        src="https://static.avroralepnina.ru/images/2018/07/06/101group.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>
@@ -826,7 +826,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img alt=""
-                                                                                                         src="https://avroralepnina.ru/images/2018/07/06/avrora.jpg">
+                                                                                                         src="https://static.avroralepnina.ru/images/2018/07/06/avrora.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>
@@ -863,7 +863,7 @@
                                                         <div class="sppb-carousel-inner sppb-text-center">
                                                             <div class="sppb-item sppb-item-has-bg active"><img
                                                                         alt=""
-                                                                        src="https://avroralepnina.ru/images/2018/07/06/icsochi.jpg">
+                                                                        src="https://static.avroralepnina.ru/images/2018/07/06/icsochi.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>
@@ -871,7 +871,7 @@
                                                                 </div>
                                                             </div>
                                                             <div class="sppb-item sppb-item-has-bg"><img alt=""
-                                                                                                         src="https://avroralepnina.ru/images/2018/07/06/rokha1.jpg">
+                                                                                                         src="https://static.avroralepnina.ru/images/2018/07/06/rokha1.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>
@@ -937,7 +937,7 @@
                                                         <div class="sppb-carousel-inner sppb-text-center">
                                                             <div class="sppb-item sppb-item-has-bg active"><img
                                                                         alt=""
-                                                                        src="https://avroralepnina.ru/images/2018/07/06/samara.jpg">
+                                                                        src="https://static.avroralepnina.ru/images/2018/07/06/samara.jpg">
                                                                 <div class="sppb-carousel-item-inner">
                                                                     <div class="sppb-carousel-caption">
                                                                         <div class="sppb-carousel-pro-text"></div>

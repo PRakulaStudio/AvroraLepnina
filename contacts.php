@@ -36,7 +36,7 @@
     <style type="text/css">.sp-page-builder .page-content #section-id-1505973925809 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2017/09/29/-11.jpg");
+            background-image: url("https://static.avroralepnina.ru/images/2017/09/29/-11.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -385,7 +385,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="cont.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/09/10/cont.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/09/10/cont.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>

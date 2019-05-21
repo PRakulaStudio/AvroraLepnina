@@ -351,7 +351,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="1011.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/1011.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/1011.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>

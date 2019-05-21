@@ -38,7 +38,7 @@
     <style type="text/css">.sp-page-builder .page-content #section-id-1505893406565 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2017/09/29/-11.jpg");
+            background-image: url("https://static.avroralepnina.ru/images/2017/09/29/-11.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -337,7 +337,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="prices.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/09/20/prices.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/09/20/prices.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
@@ -381,7 +381,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="9.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/9.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/9.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
@@ -404,7 +404,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="102.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/10/31/102.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/102.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>

@@ -24,7 +24,7 @@
                                                                     <img
                                                                             alt="cat.jpg"
                                                                             class="sppb-img-responsive"
-                                                                            src="https://avroralepnina.ru/images/2017/09/10/cat.jpg"
+                                                                            src="https://static.avroralepnina.ru/images/2017/09/10/cat.jpg"
                                                                             title=""></div>
                                                             </div>
                                                         </div>
@@ -49,7 +49,7 @@
                                                                             href="/catalog/smooth-rods/"><img
                                                                                 alt="karniz_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/karniz_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/karniz_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -62,7 +62,7 @@
                                                                             href="/catalog/arched-frame/"><img
                                                                                 alt="molding_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/molding_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/molding_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -75,7 +75,7 @@
                                                                             href="/catalog/corners/"><img
                                                                                 alt="ugol_gips.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/ugol_gips.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/ugol_gips.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -88,7 +88,7 @@
                                                                             href="/catalog/brackets/"><img
                                                                                 alt="kronshtein_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/kronshtein_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/kronshtein_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -101,7 +101,7 @@
                                                                             href="/catalog/baseboards/"><img
                                                                                 alt="plintus_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/plintus_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/plintus_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -114,7 +114,7 @@
                                                                             href="/catalog/decorative-fireplaces/"><img
                                                                                 alt="kamin_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/07/10/kamin_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/07/10/kamin_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -127,7 +127,7 @@
                                                                             href="/catalog/3d-panel/"><img
                                                                                 alt="3d_panel_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/3d_panel_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/3d_panel_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -146,7 +146,7 @@
                                                                             href="/catalog/karinizi-with-figure/"><img
                                                                                 alt="karnizy_s_risunkom.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/05/karnizy_s_risunkom.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/05/karnizy_s_risunkom.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -159,7 +159,7 @@
                                                                             href="/catalog/cutting/"><img
                                                                                 alt="porezki.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/05/porezki.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/05/porezki.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -172,7 +172,7 @@
                                                                             href="/catalog/the-gutters/"><img
                                                                                 alt="jpg2."
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2017/09/27/jpg2."
+                                                                                src="https://static.avroralepnina.ru/images/2017/09/27/jpg2."
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -185,7 +185,7 @@
                                                                             href="/catalog/ceiling-tracks/"><img
                                                                                 alt=".jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2017/09/27/ceiling-tracks.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/09/27/ceiling-tracks.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -198,7 +198,7 @@
                                                                             href="/catalog/pilasters/"><img
                                                                                 alt="pilastra_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/pilastra_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/pilastra_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -211,7 +211,7 @@
                                                                             href="katalog/2017-08-29-16-08-14.html"><img
                                                                                 alt="svetilnic_lepnina_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/07/10/svetilnic_lepnina_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/07/10/svetilnic_lepnina_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -224,7 +224,7 @@
                                                                             href="katalog/2017-08-29-16-08-23.html"><img
                                                                                 alt="fasad_lepnina_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/fasad_lepnina_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/fasad_lepnina_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -243,7 +243,7 @@
                                                                             href="/catalog/friezes/"><img
                                                                                 alt="frizty.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/05/frizty.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/05/frizty.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -256,7 +256,7 @@
                                                                             href="/catalog/rozetki/"><img
                                                                                 alt="rozetki_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/rozetki_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/rozetki_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -269,7 +269,7 @@
                                                                             href="katalog/2017-08-29-16-08-24.html"><img
                                                                                 alt="jpg9."
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2017/09/27/jpg9."
+                                                                                src="https://static.avroralepnina.ru/images/2017/09/27/jpg9."
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -282,7 +282,7 @@
                                                                             href="/catalog/panels/"><img
                                                                                 alt="jpg6."
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2017/09/27/jpg6."
+                                                                                src="https://static.avroralepnina.ru/images/2017/09/27/jpg6."
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -295,7 +295,7 @@
                                                                             href="/catalog/columns/"><img
                                                                                 alt="kolonni_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/kolonni_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/kolonni_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>
@@ -308,7 +308,7 @@
                                                                             href="/catalog/ventilation-grille/"><img
                                                                                 alt="vent_reshetka_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
-                                                                                src="https://avroralepnina.ru/images/2018/06/06/vent_reshetka_avrora_decor.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2018/06/06/vent_reshetka_avrora_decor.jpg"
                                                                                 title=""></a></div>
                                                             </div>
                                                         </div>

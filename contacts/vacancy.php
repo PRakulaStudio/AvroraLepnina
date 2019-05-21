@@ -38,7 +38,7 @@
     <style type="text/css">.sp-page-builder .page-content #section-id-1528374106950 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2018/06/07/jpg.");
+            background-image: url("https://static.avroralepnina.ru/images/2018/06/07/jpg.");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -367,7 +367,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="vakansii_avrora.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2018/06/07/vakansii_avrora.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2018/06/07/vakansii_avrora.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>

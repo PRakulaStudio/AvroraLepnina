@@ -36,7 +36,7 @@
     <style type="text/css">.sp-page-builder .page-content #section-id-1505973981826 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2017/09/29/-11.jpg");
+            background-image: url("https://static.avroralepnina.ru/images/2017/09/29/-11.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -339,7 +339,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="gallery.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/09/20/gallery.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/09/20/gallery.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
@@ -361,83 +361,83 @@
                                                         <div class="sppb-addon-content">
                                                             <ul class="sppb-gallery clearfix">
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/3.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/3.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/3.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/3.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/131.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/131.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/131.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/131.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/16.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/16.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/16.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/16.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/62.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/62.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/62.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/62.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/71.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/71.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/71.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/71.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/82.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/82.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/82.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/82.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/121.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/121.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/121.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/121.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/92.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/92.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/92.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/92.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/15.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/15.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/15.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/15.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                                 <li><a class="sppb-gallery-btn"
-                                                                       href="https://avroralepnina.ru/images/2017/10/31/4.jpg"><img
+                                                                       href="https://static.avroralepnina.ru/images/2017/10/31/4.jpg"><img
                                                                                 alt=""
                                                                                 class="sppb-img-responsive"
                                                                                 height="200"
-                                                                                src="https://avroralepnina.ru/images/2017/10/31/4.jpg"
+                                                                                src="https://static.avroralepnina.ru/images/2017/10/31/4.jpg"
                                                                                 style="width:200px;"
                                                                                 width="200"></a></li>
                                                             </ul>

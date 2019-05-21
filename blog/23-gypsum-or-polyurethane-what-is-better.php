@@ -293,7 +293,7 @@
 
                         <div itemprop="articleBody">
                             <p style="text-align: center;"><img alt=""
-                                                                src="https://avroralepnina.ru/images/BLOG/-1111.jpg"/>
+                                                                src="https://static.avroralepnina.ru/images/BLOG/-1111.jpg"/>
                             </p>
                             <p>Фигурные балясины, вычурные барельефы, элегантные колонны и прочие элементы
                                 лепного декора издавна украшали соборы, замки и дворцы. Ангелы, стремящиеся
@@ -328,7 +328,7 @@
                                 знать основные свойства каждого из них.</p>
                             <p><img alt="Традиция украшать свои дома лепниной пришла к нам из глубины веков"
                                     height="866"
-                                    src="https://avroralepnina.ru/images/BLOG/-1.jpg"
+                                    src="https://static.avroralepnina.ru/images/BLOG/-1.jpg"
                                     style="display: block; margin-left: auto; margin-right: auto;"
                                     title="Традиция украшать свои дома лепниной пришла к нам из глубины веков"
                                     width="654"/></p>
@@ -343,7 +343,7 @@
                                 К тому же, выбор дизайна полиуретановых изделий ограничен фабричным
                                 выпуском.</p>
                             <p style="text-align: center;"><img alt="Полиуретановая лепнина" height="402"
-                                                                src="https://avroralepnina.ru/images/BLOG/-11.jpg"
+                                                                src="https://static.avroralepnina.ru/images/BLOG/-11.jpg"
                                                                 title="Полиуретановая лепнина" width="644"/></p>
                             <h3><strong>Огнеупорность</strong></h3>
                             <p>Гипс относят к категории огнеупорных материалов. Даже при длительном воздействии
@@ -396,7 +396,7 @@
                                 всего на несколько лет.</p>
                             <p style="text-align: center;"><img alt="Гипсовая лепнина достаточно тяжелая"
                                                                 height="476"
-                                                                src="https://avroralepnina.ru/images/BLOG/-111.jpg"
+                                                                src="https://static.avroralepnina.ru/images/BLOG/-111.jpg"
                                                                 title="Гипсовая лепнина достаточно тяжелая"
                                                                 width="630"/></p>
                             <p>Лепнина пришла к нам с прошлых веков и сохраняет свою популярность по сей день.

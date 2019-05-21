@@ -36,7 +36,7 @@
     <style type="text/css">.sp-page-builder .page-content #section-id-1505118640055 {
             margin: 0px 0px 0px 0px;
             padding: 0px 0px 0px 0px;
-            background-image: url("https://avroralepnina.ru/images/2017/09/29/-11.jpg");
+            background-image: url("https://static.avroralepnina.ru/images/2017/09/29/-11.jpg");
             background-repeat: no-repeat;
             background-size: cover;
             background-attachment: fixed;
@@ -334,7 +334,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt="info.jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://avroralepnina.ru/images/2017/09/10/info.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/09/10/info.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
@@ -358,7 +358,7 @@
                                                                         href="info/partnership.php"><img
                                                                             alt="5.jpg"
                                                                             class="sppb-img-responsive"
-                                                                            src="https://avroralepnina.ru/images/2017/09/26/5.jpg"
+                                                                            src="https://static.avroralepnina.ru/images/2017/09/26/5.jpg"
                                                                             title=""></a></div>
                                                         </div>
                                                     </div>
@@ -375,7 +375,7 @@
                                                             <div class="sppb-addon-single-image-container"><a
                                                                         href="info/prices.php"><img alt="21.jpg"
                                                                                                     class="sppb-img-responsive"
-                                                                                                    src="https://avroralepnina.ru/images/2017/09/26/21.jpg"
+                                                                                                    src="https://static.avroralepnina.ru/images/2017/09/26/21.jpg"
                                                                                                     title=""></a>
                                                             </div>
                                                         </div>
@@ -394,7 +394,7 @@
                                                                         href="info/minimal-order.php"><img
                                                                             alt="3.jpg"
                                                                             class="sppb-img-responsive"
-                                                                            src="https://avroralepnina.ru/images/2017/09/26/3.jpg"
+                                                                            src="https://static.avroralepnina.ru/images/2017/09/26/3.jpg"
                                                                             title=""></a></div>
                                                         </div>
                                                     </div>
@@ -417,7 +417,7 @@
                                                             <div class="sppb-addon-single-image-container"><a
                                                                         href="info/prices.php"><img alt="31.jpg"
                                                                                                     class="sppb-img-responsive"
-                                                                                                    src="https://avroralepnina.ru/images/2017/09/26/31.jpg"
+                                                                                                    src="https://static.avroralepnina.ru/images/2017/09/26/31.jpg"
                                                                                                     title=""></a>
                                                             </div>
                                                         </div>

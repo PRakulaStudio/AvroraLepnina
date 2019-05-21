@@ -297,7 +297,7 @@
 
 
                                 <p style="text-align: center;"><img alt=""
-                                                                    src="https://avroralepnina.ru/images/BLOG/-1111.jpg"/>
+                                                                    src="https://static.avroralepnina.ru/images/BLOG/-1111.jpg"/>
                                 </p>
                                 <p>Фигурные балясины, вычурные барельефы, элегантные колонны и прочие элементы
                                     лепного декора издавна украшали соборы, замки и дворцы. Ангелы, стремящиеся
