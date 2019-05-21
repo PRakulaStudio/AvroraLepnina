@@ -11,7 +11,8 @@ while ($item = mysqli_fetch_assoc($items)) {
         continue;
     }
 
-    $targetImagePath = 'https://avroralepnina.prakula.ru/images/' . $item['path'] . '.png';
+    $targetImagePath = str_replace('https://avroralepnina.prakula.ru/images', 'https://static.avroralepnina.ru/images', $item['image']);
+    //'https://avroralepnina.prakula.ru/images/' . $item['path'] . '.png';
 
     echo $targetImagePath . ' ';
 

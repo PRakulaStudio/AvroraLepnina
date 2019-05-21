@@ -31,6 +31,13 @@
   "alias": "avroralepnina.ru",
   "routes": [
     {
+      "src": "/images(.*)",
+      "status": 301,
+      "headers": {
+        "Location": "https://static.avroralepnina.ru/images$1"
+      }
+    },
+    {
       "src": "/catalog",
       "dest": "/🛰/modules/catalog/index.php"
     },
