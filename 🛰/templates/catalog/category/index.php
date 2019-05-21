@@ -7,8 +7,14 @@
                     <div class="sp-column ">
                         <div id="system-message-container">
                         </div>
+                        <div class="clearfix" id="sppb-addon-1551682814527">
+                            <div class="sppb-addon sppb-addon-text-block sppb-text-left ">
+                                <h1
+                                        class="sppb-addon-title"><?= $page['title'] ?></h1>
+                                <div class="sppb-addon-content"></div>
+                            </div>
+                        </div>
                         <div class="blog" itemscope itemtype="http://schema.org/Blog">
-
 
                             <div class="items-row row-0 row clearfix">
                                 <?php
@@ -35,8 +41,9 @@
 
                                             <p>
                                                 <a href="/catalog/<?= $response['catalogPath'] ?>/<?= $product['path'] ?>"><img
-                                                            alt="Светильник VS 001" height="450"
-                                                            src="<?= $product['image'] ?>"
+                                                            class="lozad"
+                                                            alt="<?= $product['title'] ?>" height="450"
+                                                            data-src="<?= $product['image'] ?>"
                                                             style="display: block; margin-left: auto; margin-right: auto;"
                                                             title="<?= $product['title'] ?>"
                                                             width="600"/></a></p>
@@ -200,4 +207,9 @@
             </div>
         </div>
     </section>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/lozad/dist/lozad.min.js"></script>
+    <script>
+        const observer = lozad(); // lazy loads elements with default selector as '.lozad'
+        observer.observe();
+    </script>
 <? include __DIR__ . '/../../footer/index.php' ?>
