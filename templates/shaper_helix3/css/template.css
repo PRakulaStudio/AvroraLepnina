@@ -1139,7 +1139,7 @@ dl.article-info dd.hits span[class*=" icon-"] {
   visibility: visible;
 }
 
-.sp-megamenu-parent.menu-rotate .sp-has-child > .sp-dropdown {
+.sp-megamenu-parent.menu-rotate .sp-has-child.active > .sp-dropdown {
     width: 600px !important;
     left: 0;
 }

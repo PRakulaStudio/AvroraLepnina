@@ -137,13 +137,14 @@ RSFormProUtils.addEvent(window, 'load', function(){
                 <meta name="yandex-verification" content="6064992f70efc2bb" />
         <link href="/manifest.json" rel="manifest"/>
 
-<!--Если jQuery не был подключен ранее, подключаем его-->			
+        <!--Если jQuery не был подключен ранее, подключаем его-->
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
 
 <!--Подключаем js модуль форм-->
 <script type="text/javascript" src="https://jbcallme.ru/lib/js/jquery.jbform.js"></script>
 <!--Подключаем файл стилей-->
-<link rel="stylesheet" type="text/css" href="https://jbcallme.ru/lib/css/jquery.jbform.css"><!--Тема по умолчанию-->		
+        <link href="https://jbcallme.ru/lib/css/jquery.jbform.css" rel="stylesheet" type="text/css">
+        <!--Тема по умолчанию-->
 <!-- <link rel="stylesheet" type="text/css" href="//jbcallme.ru/lib/css/blue.jquery.jbform.css"> --><!--Синий стиль-->
 <!-- <link rel="stylesheet" type="text/css" href="//jbcallme.ru/lib/css/yellow.jquery.jbform.css"> --><!--Желтый стиль-->
                 </head>
@@ -303,7 +304,7 @@ RSFormProUtils.addEvent(window, 'load', function(){
 
 <div id="sp-page-builder" class="sp-page-builder  page-9">
 
-	
+
 	<div class="page-content">
 		<section id="section-id-1504022439837" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1504022439838" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section><section id="section-id-1506319408701" class="sppb-section "  ><div class="sppb-row-container"><div class="sppb-row"><div class="sppb-col-md-12"><div id="column-id-1506319408702" class="sppb-column" ><div class="sppb-column-addons"></div></div></div></div></div></section>			</div>
 </div>
@@ -384,7 +385,7 @@ RSFormProUtils.addEvent(window, 'load', function(){
         <input name="form[formId]" type="hidden" value="3"/></form>
     <script type="text/javascript">RSFormPro.Ajax.URL = "\/\/component\/rsform\/?task=ajaxValidate";</script>
 <script type="text/javascript">
-ajaxExtraValidationScript[3] = function(task, formId, data){ 
+    ajaxExtraValidationScript[3] = function (task, formId, data) {
 var formComponents = {};
 formComponents[25]='Name';formComponents[26]='tel';formComponents[27]='email';formComponents[28]='comment';
 RSFormPro.Ajax.displayValidationErrors(formComponents, task, formId, data);
