@@ -1140,7 +1140,7 @@ dl.article-info dd.hits span[class*=" icon-"] {
 }
 
 .sp-megamenu-parent.menu-rotate .sp-has-child > .sp-dropdown {
-    width: 600px;
+    width: 600px !important;
     left: 0;
 }
 .sp-megamenu-parent.menu-slide-down .sp-has-child:hover >.sp-dropdown {
