@@ -26,8 +26,11 @@
                                         width="600"/></p>
                                 <?= $product['model'] ? '<h2 style="text-align: center">
                                     <a id="viewModel" data-fancybox data-type="iframe"
-                                       href="' . $product['model'] . '">Посмотреть в 3D</a>' : '' ?>
-                                </h2>
+                                       href="' . $product['model'] . '">Посмотреть в 3D</a></h2>' : '' ?>
+                                <br>
+                                <?= $product['modelLink'] ? '<h2 style="text-align: center">
+                                    <a id="saveModel" href="https://static.avroralepnina.ru/models/' . $product['modelLink'] . '">Скачать 3D модель</a></h2>' : '' ?>
+
                                 <h3><?= $product['description'] ?></h3>
                                 <?= $product['height'] ? '<p>Высота, мм: ' . $product['height'] . '</p>' : '' ?>
                                 <?= $product['width'] ? '<p>Ширина, мм: ' . $product['width'] . '</p>' : '' ?>
