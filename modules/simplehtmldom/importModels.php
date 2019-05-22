@@ -48,7 +48,7 @@ if ($html) foreach ($html->find('#content > div.block.white > div.row.catalog-se
 
             $targetProductData = mysqli_fetch_assoc(DB::select('catalog_items', ['*'], 'id="' . $oldProductData['id'] . '"'));
 
-//            if (isset($targetProductData['modelLink'])) continue;
+            if (isset($targetProductData['modelLink'])) continue;
 
             echo PHP_EOL . $product['id'];
 //        $product['title'] = $productNode->find('span.title', 0)->plaintext;
