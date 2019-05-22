@@ -14,11 +14,18 @@ $html = file_get_html('https://dikart.ru/catalog/');
 
 //echo 'Resetting DB: ' . (mysqli_query($MYSQL_CONNECTION, 'TRUNCATE `catalog_categories`') && mysqli_query($MYSQL_CONNECTION, 'TRUNCATE `catalog_items`') ? 'OK' : 'ERR');
 
+$skipCategories = 'panels';
+
 if ($html) foreach ($html->find('#content > div.block.white > div.row.catalog-sections > ul > li') as $categoryNode) {
     $category = [];
     $category['href'] = $categoryNode->find('a.all-fabrics-box-link', 0)->href;
-//    $category['id'] = mb_strtolower(trim(explode('catalog/', $category['href'])[1], '/'));
-//    echo PHP_EOL . $category['id'];
+    $category['id'] = mb_strtolower(trim(explode('catalog/', $category['href'])[1], '/'));
+
+    echo PHP_EOL . $category['id'];
+
+    if ($skipCategories && $category['id'] != $skipCategories) continue;
+    else $skipCategories = false;
+
 //    $category['title'] = $categoryNode->find('a > div > span', 0)->plaintext;
 
 //    echo ' insert to DB ' . (DB::insert('catalog_categories', ['title' => $category['title'], 'path' => $category['id']]) ? 'OK' : 'ERR');
@@ -41,6 +48,10 @@ if ($html) foreach ($html->find('#content > div.block.white > div.row.catalog-se
 //        $product['id'] = mb_strtolower(explode('/', explode($category['href'], $product['href'])[1])[0]);
         $product['id'] = mb_strtolower(end(explode('/', trim(parse_url($product['href'], PHP_URL_PATH), '/'))));
 
+        echo PHP_EOL . $product['id'];
+
+        if ($product['id'] == 'panno_34_2610x3709x43mm') continue;
+
         $oldProduct = DB::select('catalog_items_old', ['*'], 'path="' . $product['id'] . '"');
         $oldProductData = mysqli_fetch_assoc($oldProduct);
 
@@ -50,7 +61,6 @@ if ($html) foreach ($html->find('#content > div.block.white > div.row.catalog-se
 
             if (isset($targetProductData['modelLink'])) continue;
 
-            echo PHP_EOL . $product['id'];
 //        $product['title'] = $productNode->find('span.title', 0)->plaintext;
 
             $parsedHref = parse_url($product['href']);
