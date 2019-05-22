@@ -621,7 +621,7 @@
                                                                         href="/catalog/"
                                                                         target="_blank"><img alt="10.jpg"
                                                                                              class="sppb-img-responsive"
-                                                                                             src="https://static.avroralepnina.ru/images/2017/10/31/10.jpg"
+                                                                                             src="https://static.avroralepnina.ru/images/2019/Catalog.png"
                                                                                              title=""></a>
                                                             </div>
                                                         </div>

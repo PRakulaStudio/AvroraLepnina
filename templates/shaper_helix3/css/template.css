@@ -854,6 +854,11 @@ dl.article-info dd.hits span[class*=" icon-"] {
   list-style: none;
   padding: 0;
   margin: 0;
+
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    max-height: 390px;
 }
 .sp-megamenu-parent .sp-dropdown .sp-dropdown-items .sp-has-child>a:after {
   font-family: "FontAwesome";
@@ -1132,6 +1137,11 @@ dl.article-info dd.hits span[class*=" icon-"] {
   -webkit-transform: rotateX(0deg);
   transform: rotateX(0deg);
   visibility: visible;
+}
+
+.sp-megamenu-parent.menu-rotate .sp-has-child > .sp-dropdown {
+    width: 600px;
+    left: 0;
 }
 .sp-megamenu-parent.menu-slide-down .sp-has-child:hover >.sp-dropdown {
   opacity: 1;
