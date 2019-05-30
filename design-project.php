@@ -362,7 +362,7 @@
                                                             <div class="sppb-addon-single-image-container"><img
                                                                         alt=".jpg"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/10/31/logo.jpg"
                                                                         title=""></div>
                                                         </div>
                                                     </div>

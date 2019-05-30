@@ -426,9 +426,7 @@
                                                             <br/>
                                                             <br/>
                                                             адрес эл.почты: <a
-                                                                    href="/cdn-cgi/l/email-protection.html#553423273a27343930253b3c3b34152c343b31302d7b2720"><span
-                                                                        class="__cf_email__"
-                                                                        data-cfemail="ec8d9a9e839e8d80899c8285828dac958d82888994c29e99">[email&#160;protected]</span></a><br/>
+                                                                    href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a><br/>
                                                             <br/>
                                                             г. Москва, Красногорский бульвар 25<br/>
                                                             <br/>

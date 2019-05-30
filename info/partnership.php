@@ -332,10 +332,8 @@
                                                                     style="font-size: 14pt;">Наша компания открыта для сотрудничества. </span><br/><br/><span
                                                                     style="font-size: 14pt;">Ждем Ваших писем и вопросов по адресам -></span><br/><br/><span
                                                                     style="font-size: 14pt;">эл.почту <a
-                                                                        href="/cdn-cgi/l/email-protection.html#5f3e292d302d3e333a2f3136313e1f263e313b3a27712d2a"><span
-                                                                            class="__cf_email__"
-                                                                            data-cfemail="f59483879a87949990859b9c9b94b58c949b91908ddb8780">[email&#160;protected]</span></a>&nbsp;&nbsp;</span><br/><span
-                                                                    style="font-size: 14pt;">whatsapp/viber +7 961 93 23 33 0</span>
+                                                                        href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a>&nbsp;&nbsp;</span><br/><span
+                                                                    style="font-size: 14pt;">whatsapp/viber 8 966 775 75 33</span>
                                                         </div>
                                                     </div>
                                                 </div>
