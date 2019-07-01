@@ -32,8 +32,8 @@
                                                         <div class="sppb-column-addons">
                                                             <div class="clearfix" id="sppb-addon-1505120393040">
                                                                 <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                                    <h4
-                                                                            class="sppb-addon-title">2017 II
+                                                                    <h4 class="sppb-addon-title">
+                                                                        2017 II
                                                                         Группа компаний AVRORA<br><br/>
                                                                         Интерьер - Строительство -
                                                                         Декор<br><br/>
