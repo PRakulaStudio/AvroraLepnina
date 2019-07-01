@@ -450,7 +450,7 @@
                                                                     id="btn-1498733140847"><i
                                                                         class="fa fa-facebook-f"></i> FB</a><a
                                                                     class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
-                                                                    href="https://www.instagram.com/lepnina.sochi/"
+                                                                    href="https://www.instagram.com/avroralepnina.ru/"
                                                                     id="btn-1498733140848"><i
                                                                         class="fa fa-instagram"></i> INS</a>
                                                         </div>
