@@ -64,21 +64,19 @@
                                                         <div class="sppb-column-addons">
                                                             <div id="sppb-addon-1505120393043" class="clearfix">
                                                                 <div class="sppb-addon sppb-addon-button-group sppb-text-center">
-                                                                    <div class="sppb-addon-content"><a
-                                                                                href="https://vk.com/club153819610"
-                                                                                id="btn-1505120393043"
-                                                                                class="sppb-btn  sppb-btn-custom sppb-btn-rounded"><i
-                                                                                    class="fa fa-vk"></i> VK</a><a
-                                                                                href="https://www.facebook.com/lepka.avrora.design/?ref=bookmarks"
-                                                                                id="btn-1505120393044"
-                                                                                class="sppb-btn  sppb-btn-custom sppb-btn-rounded"><i
-                                                                                    class="fa fa-facebook-f"></i>
-                                                                            FB</a><a
-                                                                                href="https://www.instagram.com/lepnina.sochi"
-                                                                                id="btn-1505120393045"
-                                                                                class="sppb-btn  sppb-btn-custom sppb-btn-rounded"><i
-                                                                                    class="fa fa-instagram"></i>
-                                                                            INST</a></div>
+                                                                    <div class="sppb-addon-content">
+                                                                        <a href="https://vk.com/club153819610"
+                                                                           id="btn-1505120393043"
+                                                                           class="sppb-btn  sppb-btn-custom sppb-btn-rounded">
+                                                                            <i class="fa fa-vk"></i>VK</a>
+                                                                        <a href="https://www.facebook.com/lepka.avrora.design/?ref=bookmarks"
+                                                                           id="btn-1505120393044"
+                                                                           class="sppb-btn  sppb-btn-custom sppb-btn-rounded">
+                                                                            <i class="fa fa-facebook-f"></i>FB</a>
+                                                                        <a href="https://www.instagram.com/avroralepnina.ru/"
+                                                                           id="btn-1505120393045"
+                                                                           class="sppb-btn  sppb-btn-custom sppb-btn-rounded">
+                                                                            <i class="fa fa-instagram"></i>INST</a></div>
                                                                 </div>
                                                             </div>
                                                         </div>
