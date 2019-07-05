@@ -208,7 +208,7 @@
                                                             <div class="sppb-addon-content">
                                                                 <div class="sppb-addon-single-image-container">
                                                                     <a
-                                                                            href="katalog/2017-08-29-16-08-14.html"><img
+                                                                            href="katalog/lights.html"><img
                                                                                 alt="svetilnic_lepnina_avrora_decor.jpg"
                                                                                 class="sppb-img-responsive"
                                                                                 src="https://static.avroralepnina.ru/images/2018/07/10/svetilnic_lepnina_avrora_decor.jpg"
