@@ -333,7 +333,7 @@
                                                                     style="font-size: 14pt;">Ждем Ваших писем и вопросов по адресам -></span><br/><br/><span
                                                                     style="font-size: 14pt;">эл.почту <a
                                                                         href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a>&nbsp;&nbsp;</span><br/><span
-                                                                    style="font-size: 14pt;">whatsapp/viber 8 966 775 75 33</span>
+                                                                    style="font-size: 14pt;">whatsapp/viber 8 966 775 73 30</span>
                                                         </div>
                                                     </div>
                                                 </div>

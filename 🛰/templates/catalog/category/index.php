@@ -47,9 +47,9 @@
                                                             style="display: block; margin-left: auto; margin-right: auto;"
                                                             title="<?= $product['title'] ?>"
                                                             width="600"/></a></p>
-                                            <h3>
-                                                <a href="/catalog/<?= $response['catalogPath'] ?>/<?= $product['path'] ?>"><?= $product['title'] ?></a>
-                                            </h3>
+<!--                                            <h3>-->
+<!--                                                <a href="/catalog/--><?//= $response['catalogPath'] ?><!--/--><?//= $product['path'] ?><!--">--><?//= $product['title'] ?><!--</a>-->
+<!--                                            </h3>-->
 
 
                                         </a>

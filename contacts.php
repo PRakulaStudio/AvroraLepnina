@@ -419,16 +419,10 @@
                                                             (производство)<br/>
                                                             <br/>
                                                             <br/>
-                                                            ОРЕНБУРГСКАЯ ОБЛАСТЬ, ГОРОД ОРСК<br/>
-                                                            <br/>
-                                                            <a href="tel://+73537303006"> 8 (3537) 30 30 06</a>
-                                                            (производство)<br/>
-                                                            <br/>
-                                                            <br/>
                                                             адрес эл.почты: <a
                                                                     href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a><br/>
                                                             <br/>
-                                                            г. Москва, Красногорский бульвар 25<br/>
+                                                            г. Москва, Южнопортовая, 21 ст1<br/>
                                                             <br/>
                                                             <a href="tel://+74957402454"> 8(495) 740 24 54</a>
                                                             (тел)<br/>
@@ -436,7 +430,7 @@
                                                             (моб)<br/>
                                                             <br/>
                                                             ВРЕМЯ РАБОТЫ ШОУ-РУМА И МЕНЕДЖЕРОВ:<br/>
-                                                            ежедневно с 8.00-20.00 </h3></div>
+                                                            ежедневно 08:00 - 20:00 </h3></div>
                                                 </div>
                                                 <div class="clearfix" id="sppb-addon-1498733140846">
                                                     <div class="sppb-addon sppb-addon-button-group sppb-text-center">
