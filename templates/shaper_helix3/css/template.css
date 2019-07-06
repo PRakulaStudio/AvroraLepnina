@@ -2076,7 +2076,7 @@ ul.social-icons >li a {
   box-shadow: 0 3px 3px rgba(0,0,0,0.05);
   height: 90px;
   left: 0;
-  position: relative;
+  position: fixed;
   top: 0;
   width: 100%;
   z-index: 99;
@@ -2153,6 +2153,7 @@ ul.social-icons >li a {
 }
 .body-innerwrapper {
   overflow-x: hidden;
+  padding: 90px 0 0 0;
 }
 .layout-boxed .body-innerwrapper {
   max-width: 1240px;
