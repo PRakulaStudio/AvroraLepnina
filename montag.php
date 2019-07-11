@@ -414,9 +414,9 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center ">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><img
-                                                                        alt="mont-pic2.jpg"
+                                                                        alt="mont-pic2.png"
                                                                         class="sppb-img-responsive"
-                                                                        src="https://static.avroralepnina.ru/images/2017/09/14/mont-pic2.jpg"
+                                                                        src="https://static.avroralepnina.ru/images/2017/09/14/mont-pic2.png"
                                                                         title=""></div>
                                                         </div>
                                                     </div>
