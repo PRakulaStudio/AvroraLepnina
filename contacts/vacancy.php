@@ -394,12 +394,12 @@
                                                         <h3
                                                                 class="sppb-addon-title">Мастер по изготовлению
                                                             гипсовых моделей (г.Москва
-                                                            // г.Сочи // г.Оренбург-Орск)</h3>
+                                                            // г.Сочи // г.Орск)</h3>
                                                         <div class="sppb-addon-content"><span
                                                                     style="font-size: 14pt;">Мужчина/женщина, желательно с опытом работы с гипсовыми изделями. Без вредным привычек.</span><br/><br/><span
                                                                     style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
                                                                     style="font-size: 14pt;">тел. в г.Сочи 8(966) 775 73 35</span><br/><span
-                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8(3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Орск 8(3537) 30 30 06</span><br/><span
                                                                     style="font-size: 14pt;">или написать на эл.почту <a
                                                                         class="__cf_email__"
                                                                         data-cfemail="3a5b4c4855485b565f4a5453545b7a435b545e5f4214484f"
@@ -412,12 +412,12 @@
                                                         <h3
                                                                 class="sppb-addon-title">Мастер протяжного цеха
                                                             (г.Москва // г.Сочи //
-                                                            г.Оренбург-Орск)</h3>
+                                                            г.Орск)</h3>
                                                         <div class="sppb-addon-content"><span
                                                                     style="font-size: 14pt;">Мужчина, желательно с опытом работы с гипсовыми изделиями. Без вредных привычек.</span><br/><br/><span
                                                                     style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
                                                                     style="font-size: 14pt;">тел. в г.Сочи 8(966) 775 73 35</span><br/><span
-                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8(3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Орск 8(3537) 30 30 06</span><br/><span
                                                                     style="font-size: 14pt;">или написать на эл.почту <a
                                                                         class="__cf_email__"
                                                                         data-cfemail="254453574a57444940554b4c4b44655c444b41405d0b5750"
@@ -434,7 +434,7 @@
                                                                     style="font-size: 14pt;">Мужчина, опыт работы по монтажу гипсовой лепнины обязательно. Наличие инструмента.</span><br/><br/><span
                                                                     style="font-size: 14pt;">звонить по тел.в г.Москва 8 (495) 740 24 54</span><br/><span
                                                                     style="font-size: 14pt;">тел. в г.Сочи 8 (966) 775 73 35</span><br/><span
-                                                                    style="font-size: 14pt;">тел.г.Оренбург-Орск 8 (3537) 30 30 06</span><br/><span
+                                                                    style="font-size: 14pt;">тел.г.Орск 8 (3537) 30 30 06</span><br/><span
                                                                     style="font-size: 14pt;">или написать на эл.почту <a
                                                                         class="__cf_email__"
                                                                         data-cfemail="88e9fefae7fae9e4edf8e6e1e6e9c8f1e9e6ecedf0a6fafd"
