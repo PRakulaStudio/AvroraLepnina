@@ -399,7 +399,7 @@
                         <section class="sppb-section " id="section-id-1497371135805">
                             <div class="sppb-row-container">
                                 <div class="sppb-row">
-                                    <div class="sppb-col-md-4">
+                                    <div class="sppb-col-md-12">
                                         <div class="sppb-column" id="column-id-1497371135806">
                                             <div class="sppb-column-addons">
                                                 <div class=" sppb-wow zoomInLeft clearfix"
@@ -453,7 +453,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="sppb-col-md-4">
+                                    <div class="sppb-col-md-6">
                                         <div class="sppb-column" id="column-id-1497371135807">
                                             <div class="sppb-column-addons">
                                                 <div class=" sppb-wow zoomInRight clearfix"
@@ -473,7 +473,7 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <div class="sppb-col-md-4">
+                                    <div class="sppb-col-md-6">
                                         <div class="sppb-column" id="column-id-1526053501588">
                                             <div class="sppb-column-addons">
                                                 <div class=" sppb-wow zoomInRight clearfix"
@@ -483,7 +483,7 @@
                                                     <div class="sppb-addon sppb-addon-raw-html ya_map">
                                                         <div class="sppb-addon-content">
                                                             <script async charset="utf-8"
-                                                                    src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A38ecc25789370c4982829eb7054deb8c4bcf9dd9853b8e742fd08c2581a33644&amp;width=359&amp;height=325&amp;lang=ru_RU&amp;scroll=true"
+                                                                    src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A38ecc25789370c4982829eb7054deb8c4bcf9dd9853b8e742fd08c2581a33644&amp;width=100%&amp;height=325&amp;lang=ru_RU&amp;scroll=true"
                                                                     type="text/javascript"></script>
                                                         </div>
                                                     </div>
