@@ -426,7 +426,7 @@
                                         </div>
                                     </div>
 
-                                    <div class="sppb-col-md-12">
+                                    <div class="sppb-col-md-12" style="margin">
                                         <div class="sppb-column" id="column-id-1497371135806">
                                             <div class="sppb-column-addons">
                                                 <div class=" sppb-wow zoomInLeft clearfix"
@@ -434,14 +434,13 @@
                                                      data-sppb-wow-duration="600ms"
                                                      id="sppb-addon-1497371135810">
                                                     <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                        <h3>
-                                                            <a href="tel://+88002229856"> 8 (800) 222 98 56</a>
-                                                        </h3>
+                                                        <h3><a href="tel://+88002229856"> 8 (800) 222 98 56</a></h3>
                                                         (звонок бесплатный)
                                                         <br/>
                                                         <br/>
-                                                        <a href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a>
-                                                        <br/>
+                                                        <h3><a href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a></h3>
+                                                        <br>
+                                                        <br>
                                                     </div>
                                                 </div>
                                             </div>
@@ -466,7 +465,8 @@
                                                     </div>
 
                                                     <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                        г. Сочи, ул. Транспортная, 74Б
+                                                        <br>
+                                                        <h4>г. Сочи, ул. Транспортная, 74Б</h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -488,7 +488,8 @@
                                                     </div>
 
                                                     <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                        г. Москва, Южнопортовая, 21 ст1
+                                                        <br>
+                                                        <h4>г. Москва, Южнопортовая, 21 ст1</h4>
                                                     </div>
                                                 </div>
                                             </div>
@@ -502,8 +503,8 @@
                                                      data-sppb-wow-delay="100ms"
                                                      data-sppb-wow-duration="600ms">
                                                     <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                        ВРЕМЯ РАБОТЫ ШОУ-РУМА И МЕНЕДЖЕРОВ:<br/>
-                                                        ежедневно 08:00 - 20:00 </h3>
+                                                        <h3>ВРЕМЯ РАБОТЫ ШОУ-РУМА И МЕНЕДЖЕРОВ:</h3>
+                                                        <h4>ежедневно 08:00 - 20:00</h4>
                                                     </div>
                                                 </div>
                                                 <div class="clearfix" id="sppb-addon-1498733140846">
