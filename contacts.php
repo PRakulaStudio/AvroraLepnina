@@ -383,10 +383,10 @@
                                                     <div class="sppb-addon sppb-addon-single-image sppb-text-center head">
                                                         <div class="sppb-addon-content">
                                                             <div class="sppb-addon-single-image-container"><img
-                                                                        alt="cont.jpg"
-                                                                        class="sppb-img-responsive"
-                                                                        src="https://static.avroralepnina.ru/images/2017/09/10/cont.jpg"
-                                                                        title=""></div>
+                                                                alt="cont.jpg"
+                                                                class="sppb-img-responsive"
+                                                                src="https://static.avroralepnina.ru/images/2017/09/10/cont.jpg"
+                                                                title=""></div>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -399,6 +399,33 @@
                         <section class="sppb-section " id="section-id-1497371135805">
                             <div class="sppb-row-container">
                                 <div class="sppb-row">
+                                    <div class="sppb-col-md-6">
+                                        <div class="sppb-column">
+                                            <div class="sppb-column-addons">
+                                                <div class=" sppb-wow zoomInLeft clearfix"
+                                                     data-sppb-wow-delay="100ms"
+                                                     data-sppb-wow-duration="600ms">
+                                                    <div class="sppb-addon sppb-addon-header sppb-text-center">
+                                                        <h3>СОЧИ</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="sppb-col-md-6">
+                                        <div class="sppb-column">
+                                            <div class="sppb-column-addons">
+                                                <div class=" sppb-wow zoomInLeft clearfix"
+                                                     data-sppb-wow-delay="100ms"
+                                                     data-sppb-wow-duration="600ms">
+                                                    <div class="sppb-addon sppb-addon-header sppb-text-center">
+                                                        <h3>Москва</h3>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
                                     <div class="sppb-col-md-12">
                                         <div class="sppb-column" id="column-id-1497371135806">
                                             <div class="sppb-column-addons">
@@ -407,52 +434,19 @@
                                                      data-sppb-wow-duration="600ms"
                                                      id="sppb-addon-1497371135810">
                                                     <div class="sppb-addon sppb-addon-header sppb-text-center">
-                                                        <h3
-                                                                class="sppb-addon-title">КРАСНОДАРСКИЙ КРАЙ,
-                                                            ГОРОД СОЧИ<br/>
-                                                            <br/>
-                                                            УЛ.ТРАНСПОРТНАЯ 74 Б (адрес шоу-рума и офиса продаж)<br/>
-                                                            <br/>
-                                                            <a href="tel://+79667757330"> 8 (966) 775 73 30</a>
-                                                            (офис продаж)<br/>
-                                                            <a href="tel://+79622917330"> 8 (862) 291 73 30</a>
-                                                            (производство)<br/>
-                                                            <br/>
-                                                            <br/>
-                                                            адрес эл.почты: <a
-                                                                    href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a><br/>
-                                                            <br/>
-                                                            г. Москва, Южнопортовая, 21 ст1<br/>
-                                                            <br/>
-                                                            <a href="tel://+74957402454"> 8(495) 740 24 54</a>
-                                                            (тел)<br/>
-                                                            <a href="tel://+79250300036"> 8 (925) 030 00 36</a>
-                                                            (моб)<br/>
-                                                            <br/>
-                                                            ВРЕМЯ РАБОТЫ ШОУ-РУМА И МЕНЕДЖЕРОВ:<br/>
-                                                            ежедневно 08:00 - 20:00 </h3></div>
-                                                </div>
-                                                <div class="clearfix" id="sppb-addon-1498733140846">
-                                                    <div class="sppb-addon sppb-addon-button-group sppb-text-center">
-                                                        <div class="sppb-addon-content"><a
-                                                                    class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
-                                                                    href="https://vk.com/club153819610"
-                                                                    id="btn-1498733140846"><i
-                                                                        class="fa fa-vk"></i> VK</a><a
-                                                                    class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
-                                                                    href="https://www.facebook.com/lepka.avrora.design/?ref=bookmarks"
-                                                                    id="btn-1498733140847"><i
-                                                                        class="fa fa-facebook-f"></i> FB</a><a
-                                                                    class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
-                                                                    href="https://www.instagram.com/avroralepnina.ru/"
-                                                                    id="btn-1498733140848"><i
-                                                                        class="fa fa-instagram"></i> INS</a>
-                                                        </div>
+                                                        <h3>
+                                                            <a href="tel://+88002229856"> 8 (800) 222 98 56</a>
+                                                        </h3>
+                                                        <br/>
+                                                        (звонок бесплатный)
+                                                        <br/>
+                                                        <a href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a>
                                                     </div>
                                                 </div>
                                             </div>
                                         </div>
                                     </div>
+
                                     <div class="sppb-col-md-6">
                                         <div class="sppb-column" id="column-id-1497371135807">
                                             <div class="sppb-column-addons">
@@ -468,6 +462,10 @@
                                                                     src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A37ad21f8710f335a2a962b9f625ac9f0f2c30da1cb67cd964f414f5962dd9933&amp;width=100%25&amp;height=330&amp;lang=ru_RU&amp;scroll=true"
                                                                     type="text/javascript"></script>
                                                         </div>
+                                                    </div>
+
+                                                    <div class="sppb-addon sppb-addon-header sppb-text-center">
+                                                        г. Сочи, ул. Транспортная, 74Б
                                                     </div>
                                                 </div>
                                             </div>
@@ -485,6 +483,43 @@
                                                             <script async charset="utf-8"
                                                                     src="https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor%3A38ecc25789370c4982829eb7054deb8c4bcf9dd9853b8e742fd08c2581a33644&amp;width=100%&amp;height=325&amp;lang=ru_RU&amp;scroll=true"
                                                                     type="text/javascript"></script>
+                                                        </div>
+                                                    </div>
+
+                                                    <div class="sppb-addon sppb-addon-header sppb-text-center">
+                                                        г. Москва, Южнопортовая, 21 ст1
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </div>
+
+                                    <div class="sppb-col-md-12">
+                                        <div class="sppb-column">
+                                            <div class="sppb-column-addons">
+                                                <div class=" sppb-wow zoomInLeft clearfix"
+                                                     data-sppb-wow-delay="100ms"
+                                                     data-sppb-wow-duration="600ms">
+                                                    <div class="sppb-addon sppb-addon-header sppb-text-center">
+                                                        ВРЕМЯ РАБОТЫ ШОУ-РУМА И МЕНЕДЖЕРОВ:<br/>
+                                                        ежедневно 08:00 - 20:00 </h3>
+                                                    </div>
+                                                </div>
+                                                <div class="clearfix" id="sppb-addon-1498733140846">
+                                                    <div class="sppb-addon sppb-addon-button-group sppb-text-center">
+                                                        <div class="sppb-addon-content">
+                                                            <a class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
+                                                                href="https://vk.com/club153819610"
+                                                                id="btn-1498733140846"><i
+                                                                    class="fa fa-vk"></i> VK</a><a
+                                                                class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
+                                                                href="https://www.facebook.com/lepka.avrora.design/?ref=bookmarks"
+                                                                id="btn-1498733140847"><i
+                                                                    class="fa fa-facebook-f"></i> FB</a><a
+                                                                class="sppb-btn  sppb-btn-custom sppb-btn-rounded"
+                                                                href="https://www.instagram.com/avroralepnina.ru/"
+                                                                id="btn-1498733140848"><i
+                                                                    class="fa fa-instagram"></i> INS</a>
                                                         </div>
                                                     </div>
                                                 </div>
