@@ -437,10 +437,11 @@
                                                         <h3>
                                                             <a href="tel://+88002229856"> 8 (800) 222 98 56</a>
                                                         </h3>
-                                                        <br/>
                                                         (звонок бесплатный)
                                                         <br/>
+                                                        <br/>
                                                         <a href="mailto:info@avroralepnina.ru">info@avroralepnina.ru</a>
+                                                        <br/>
                                                     </div>
                                                 </div>
                                             </div>
