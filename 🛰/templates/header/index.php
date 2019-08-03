@@ -5,7 +5,7 @@
         <header id="sp-header">
             <div class="container">
                 <div class="row">
-                    <div class="sp-column pull-right">
+                    <div class="sp-column pull-right" style="padding: 0 10px;">
                         <strong>
                             <a href="mailto:info@avroralepnina.ru">
                                 <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
