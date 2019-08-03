@@ -5,24 +5,18 @@
         <header id="sp-header">
             <div class="container">
                 <div class="row">
-                    <div class="col-xs-8 col-sm-2 col-md-2">
-                        <div class="sp-column" style="width: 100%;">
-                        </div>
-                    </div>
-                    <div class="col-xs-4 col-sm-10 col-md-10">
-                        <div class="sp-column pull-right">
-                            <strong>
-                                <a href="mailto:info@avroralepnina.ru">
-                                    <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
-                                </a>
-                            </strong>
-                            &nbsp;&nbsp;
-                            <strong>
-                                <a href="tel://88002229856">
-                                    <i class="fa fa-phone"></i>&nbsp;8 (800) 222 98 56
-                                </a>
-                            </strong>
-                        </div>
+                    <div class="sp-column pull-right">
+                        <strong>
+                            <a href="mailto:info@avroralepnina.ru">
+                                <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
+                            </a>
+                        </strong>
+                        &nbsp;&nbsp;
+                        <strong>
+                            <a href="tel://88002229856">
+                                <i class="fa fa-phone"></i>&nbsp;8 (800) 222 98 56
+                            </a>
+                        </strong>
                     </div>
                 </div>
                 <div class="row">
