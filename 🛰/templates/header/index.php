@@ -11,12 +11,17 @@
                     </div>
                     <div class="col-xs-4 col-sm-10 col-md-10">
                         <div class="sp-column pull-right">
-                            <a href="mailto:info@avroralepnina.ru">
-                                <i class="fa fa-envelope-o"></i>info@avroralepnina.ru
-                            </a>
-                            <a href="tel://88002229856">
-                                <i class="fa fa-phone"></i>8 (800) 222 98 56
-                            </a>
+                            <strong>
+                                <a href="mailto:info@avroralepnina.ru">
+                                    <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
+                                </a>
+                            </strong>
+                            &nbsp;&nbsp;
+                            <strong>
+                                <a href="tel://88002229856">
+                                    <i class="fa fa-phone"></i>&nbsp;8 (800) 222 98 56
+                                </a>
+                            </strong>
                         </div>
                     </div>
                 </div>
