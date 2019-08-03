@@ -2,20 +2,38 @@
 
 <div class="body-wrapper">
     <div class="body-innerwrapper">
-
         <header id="sp-header">
             <div class="container">
                 <div class="row">
+                    <div class="col-xs-8 col-sm-2 col-md-2">
+                        <div class="sp-column">
+                        </div>
+                    </div>
+                    <div class="col-xs-4 col-sm-10 col-md-10">
+                        <div class="sp-column">
+                            <a href="mailto:info@avroralepnina.ru">
+                                <i class="fa fa-envelope-o"></i>info@avroralepnina.ru
+                            </a>
+                            <a href="tel://88002229856">
+                                <i class="fa fa-phone"></i>8 (800) 222 98 56
+                            </a>
+                        </div>
+                    </div>
+                </div>
+                <div class="row">
                     <div class="col-xs-8 col-sm-2 col-md-2" id="sp-logo">
                         <div class="sp-column logo_img">
-                            <div class="logo"><a href="/"><img alt="lepnina"
-                                                               class="sp-default-logo hidden-xs"
-                                                               src="https://static.avroralepnina.ru/images/logo_new.jpg"><img
-                                            alt="lepnina" class="sp-retina-logo hidden-xs" height="230"
-                                            src="https://static.avroralepnina.ru/images/logo_new.jpg"
-                                            width="500"><img alt="lepnina"
-                                                             class="sp-default-logo visible-xs"
-                                                             src="https://static.avroralepnina.ru/images/rsz_logo_new.jpg"></a>
+                            <div class="logo">
+                                <a href="/">
+                                    <img alt="lepnina"
+                                         class="sp-default-logo hidden-xs"
+                                         src="https://static.avroralepnina.ru/images/logo_new.jpg">
+                                    <img alt="lepnina" class="sp-retina-logo hidden-xs" height="230"
+                                         src="https://static.avroralepnina.ru/images/logo_new.jpg"
+                                         width="500">
+                                    <img alt="lepnina" class="sp-default-logo visible-xs"
+                                         src="https://static.avroralepnina.ru/images/rsz_logo_new.jpg">
+                                </a>
                             </div>
                         </div>
                     </div>
