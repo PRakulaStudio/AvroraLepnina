@@ -6,11 +6,11 @@
             <div class="container">
                 <div class="row">
                     <div class="col-xs-8 col-sm-2 col-md-2">
-                        <div class="sp-column">
+                        <div class="sp-column" style="width: 100%;">
                         </div>
                     </div>
                     <div class="col-xs-4 col-sm-10 col-md-10">
-                        <div class="sp-column">
+                        <div class="sp-column pull-right">
                             <a href="mailto:info@avroralepnina.ru">
                                 <i class="fa fa-envelope-o"></i>info@avroralepnina.ru
                             </a>
