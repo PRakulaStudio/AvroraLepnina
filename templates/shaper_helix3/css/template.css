@@ -3435,8 +3435,8 @@ table.category tbody >tr td {
 
 .search-input {
   height: 26px !important;
-  width: 80px;
-  padding: 0 12px 0 25px;
+  width: 160px;
+  padding: 0 12px !important;
   background: white url("https://cssdeck.com/uploads/media/items/5/5JuDgOa.png") 8px 6px no-repeat;
   border-width: 1px;
   border-style: solid;
