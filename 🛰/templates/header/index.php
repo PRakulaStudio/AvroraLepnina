@@ -6,12 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="sp-column pull-right" style="padding: 0 10px;">
-                        <input type="search"
-                               class="form-control ds-input"
-                               id="search-input"
-                               placeholder="Search..."
-                               autocomplete="off"
-                               style="position: relative; vertical-align: top;">
+                        <input class="search-input" type="text" name="q" placeholder="Search..."/>
                         &nbsp;&nbsp;
 
                         <strong>
