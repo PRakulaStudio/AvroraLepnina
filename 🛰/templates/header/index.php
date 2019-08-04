@@ -6,7 +6,7 @@
             <div class="container">
                 <div class="row">
                     <div class="sp-column pull-right" style="padding: 0 10px;">
-                        <input class="search-input" type="text" name="q" placeholder="Search..."/>
+                        <input class="search-input pull-left" type="text" name="q" placeholder="Search..."/>
                         &nbsp;&nbsp;
 
                         <strong>
