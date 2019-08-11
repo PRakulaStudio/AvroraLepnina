@@ -10,7 +10,7 @@
                         <div class="clearfix" id="sppb-addon-1551682814527">
                             <div class="sppb-addon sppb-addon-text-block sppb-text-left ">
                                 <h1
-                                        class="sppb-addon-title"><?= $page['title'] ?></h1>
+                                        class="sppb-addon-title"><?= $page['headline'] ?></h1>
                                 <div class="sppb-addon-content"></div>
                             </div>
                         </div>
