@@ -50,12 +50,14 @@ if (isset($response['404'])) {
     }
     $page = [
         'title' => $response['catalogData']['title'],
+        'headline' => $response['catalogData']['headline'],
         'href' => 'https://' . $_SERVER['SERVER_NAME'] . '/catalog/' . $response['catalogData']['path']
     ];
     include $_ENV['ROOT'] . '/🛰/templates/catalog/category/index.php';
 } else {
     $page = [
         'title' => 'Каталог',
+        'headline' => 'Каталог',
         'href' => 'https://' . $_SERVER['SERVER_NAME'] . '/catalog/'
     ];
     include $_ENV['ROOT'] . '/🛰/templates/catalog/index.php';
