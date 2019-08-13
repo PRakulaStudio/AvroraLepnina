@@ -9,8 +9,6 @@
                         <div id="header-search">
                             <input class="search-input pull-left" type="text" name="q" placeholder="Поиск..."/>
                         </div>
-                        &nbsp;&nbsp;
-
                         <div id="header-email">
                             <a href="mailto:info@avroralepnina.ru">
                                 <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru

@@ -3467,8 +3467,17 @@ table.category tbody >tr td {
   font-weight: bold;
 }
 
+#header-email > a, #header-phone > a {
+  text-align: center;
+  display: block;
+}
+
 #header-email i {
   display: unset;
+}
+
+#header-search {
+  padding: 5px;
 }
 
 @media screen and (max-width: 600px) {
