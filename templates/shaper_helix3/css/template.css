@@ -2074,8 +2074,6 @@ ul.social-icons >li a {
 #sp-header {
   background: #ffffff none repeat scroll 0 0;
   box-shadow: 0 3px 3px rgba(0,0,0,0.05);
-  /*height: 90px; // old property*/
-  height: 120px;
   left: 0;
   position: fixed;
   top: 0;
@@ -3463,3 +3461,13 @@ table.category tbody >tr td {
   box-shadow: 0 0 2px rgba(85, 168, 236, 0.9);
 }
 .search-input:focus + .results { display: block }
+
+#header-email, #header-phone {
+  font-weight: bold;
+}
+
+@media screen and (max-width: 600px) {
+  #header-search, #header-email, #header-phone {
+    width: 100%;
+  }
+}
