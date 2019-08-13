@@ -5,7 +5,7 @@
         <header id="sp-header">
             <div class="container">
                 <div class="row">
-                    <div class="sp-column pull-right" style="width: 100%;">
+                    <div class="sp-column" style="width: 100%;">
                         <div id="header-search">
                             <input class="search-input pull-left" type="text" name="q" placeholder="Поиск..."/>
                         </div>
@@ -20,7 +20,7 @@
                             </a>
                         </div>
                     </div>
-                    <div class="row">
+                    <div class="row" style="padding: 0 20px;">
                         <div class="col-xs-8 col-sm-2 col-md-2" id="sp-logo">
                             <div class="sp-column logo_img">
                                 <div class="logo">

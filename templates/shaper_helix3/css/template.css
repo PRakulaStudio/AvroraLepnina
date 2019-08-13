@@ -3480,6 +3480,12 @@ table.category tbody >tr td {
   padding: 5px;
 }
 
+#header-search input {
+  margin-left: auto;
+  margin-right: auto;
+  width: 300px;
+}
+
 @media screen and (max-width: 600px) {
   #header-search, #header-email, #header-phone {
     width: 100%;
