@@ -3464,6 +3464,7 @@ table.category tbody >tr td {
 .search-input:focus + .results { display: block }
 
 #header-email, #header-phone {
+  height: 36px;
   font-weight: bold;
 }
 
