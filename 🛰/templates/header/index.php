@@ -7,17 +7,19 @@
                 <div class="row">
                     <div class="sp-column" style="width: 100%;">
                         <div id="header-search">
-                            <input class="search-input pull-left" type="text" name="q" placeholder="Поиск..."/>
+                            <input class="search-input" type="text" name="q" placeholder="Поиск..."/>
                         </div>
-                        <div id="header-email">
-                            <a href="mailto:info@avroralepnina.ru">
-                                <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
-                            </a>
-                        </div>
-                        <div id="header-phone">
-                            <a href="tel://88002229856">
-                                <i class="fa fa-phone"></i>&nbsp;8 (800) 222 98 56
-                            </a>
+                        <div class="header-contacts">
+                            <div id="header-email">
+                                <a href="mailto:info@avroralepnina.ru">
+                                    <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru
+                                </a>
+                            </div>
+                            <div id="header-phone">
+                                <a href="tel://88002229856">
+                                    <i class="fa fa-phone"></i>&nbsp;8 (800) 222 98 56
+                                </a>
+                            </div>
                         </div>
                     </div>
                     <div class="row" style="padding: 0 20px;">
