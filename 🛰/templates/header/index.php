@@ -49,7 +49,7 @@
                                                 <div class="sp-dropdown-inner">
                                                     <ul class="sp-dropdown-items">
                                                         <li class="sp-menu-item"><a
-                                                                    href="/katalog/lights.html">Светильники</a>
+                                                                    href="/catalog/lights/">Светильники</a>
                                                         </li>
                                                         <li class="sp-menu-item"><a
                                                                     href="/catalog/smooth-rods/">Гладкие
