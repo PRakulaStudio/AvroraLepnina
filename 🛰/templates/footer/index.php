@@ -119,7 +119,7 @@
                                 data-target="#collapse-menu-103"><i class="open-icon fa fa-angle-down"></i><i
                                     class="close-icon fa fa-angle-up"></i></span>
                         <ul class="collapse" id="collapse-menu-103">
-                            <li class="item-145"><a href="/katalog/lights.html"> Светильники</a></li>
+                            <li class="item-145"><a href="/catalog/lights/"> Светильники</a></li>
                             <li class="item-110"><a href="/catalog/smooth-rods/"> Гладкие карнизы</a></li>
                             <li class="item-115"><a href="/catalog/cutting/"> Порезки</a></li>
                             <li class="item-116"><a href="katalog/2017-08-29-16-08-7.html"> Световые карнизы</a></li>
