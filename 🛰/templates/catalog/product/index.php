@@ -39,7 +39,7 @@
                                 <?= $product['depth'] ? '<p>Глубина, мм: ' . $product['depth'] . '</p>' : '' ?>
                                 <?= $product['material'] ? '<p>Материал: ' . $product['material'] . '</p>' : '' ?>
                                 <?= $product['note'] ? '<p>Примечание: ' . $product['note'] . '</p>' : '' ?>
-                                <?= $product['min-order'] ? '<p>Минимальный заказ: ' . $product['min-order'] . '</p>' : '' ?>
+                                <?= $product['min_order'] ? '<p>Минимальный заказ: ' . $product['min_order'] . '</p>' : '' ?>
                                 <?= $product['price'] ? '<p><span style="font-size: 14pt;"><em><strong>' . $product['price'] . '</strong></em></span></p>' : '' ?>
                                 <p style="text-align: center;"><span style="font-size: 14pt;"><strong><a
                                                     href="#order-from">ЗАКАЗАТЬ</a></strong></span>

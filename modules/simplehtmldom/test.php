@@ -92,7 +92,7 @@ if ($html) foreach ($html->find('#content > div.block.white > div.row.catalog-se
                         $parameter['id'] = 'material';
                         break;
                     case 'Минимальный заказ':
-                        $parameter['id'] = 'min-order';
+                        $parameter['id'] = 'min_order';
                         break;
                     case 'Вес':
                         $parameter['id'] = 'weight';
