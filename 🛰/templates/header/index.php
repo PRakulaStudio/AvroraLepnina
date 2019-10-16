@@ -6,9 +6,11 @@
             <div class="container">
                 <div class="row">
                     <div class="sp-column" style="width: 100%;">
-                        <div id="header-search" class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
-                            <input class="search-input" type="text" name="q" placeholder="Поиск..."/>
-                        </div>
+                        <form name="search" method="get" action="search.php">
+                            <div id="header-search" class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
+                                <input class="search-input" type="text" name="q" placeholder="Поиск..."/>
+                            </div>
+                        </form>
                         <div id="header-email" class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                             <a href="mailto:info@avroralepnina.ru">
                                 <i class="fa fa-envelope-o"></i>&nbsp;info@avroralepnina.ru

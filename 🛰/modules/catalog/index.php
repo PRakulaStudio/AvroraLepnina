@@ -16,7 +16,8 @@ $response['path'] = explode('/', trim($_REQUEST['url'], '/'));
 
 if (isset($response['path'][0]) && $response['path'][0] != '') {
     $response['catalogPath'] = mb_strtolower($response['path'][0]);
-    $catalog = DB::select('catalog_categories', ['*'], '`path`="' . DB::real_escape_string($response['catalogPath']) . '"');
+    $catalog =
+        DB::select('catalog_categories', ['*'], '`path`="' . DB::real_escape_string($response['catalogPath']) . '"');
     if (mysqli_num_rows($catalog) > 0) {
 //    if (isset($response['data'][$response['catalogPath']])) {
         $response['catalogData'] = mysqli_fetch_assoc($catalog);
