@@ -5,7 +5,7 @@
         <header id="sp-header">
             <div class="container">
                 <div class="row">
-                    <div class="sp-column" style="width: 100%;">
+                    <div class="sp-column" style="width: 100%; height: 36px;">
                         <form name="search" method="get" action="search.php">
                             <div id="header-search" class="col-xs-12 col-sm-12 col-md-4 col-lg-4">
                                 <input class="search-input" type="text" name="q" placeholder="Поиск..."/>

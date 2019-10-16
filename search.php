@@ -1,6 +1,6 @@
 <?php
 
-require_once 'db.lib.php';
+require_once '🛰/modules/catalog/db.lib.php';
 
 $response = [];
 
