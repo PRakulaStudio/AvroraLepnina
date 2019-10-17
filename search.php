@@ -6,6 +6,8 @@ $response = [];
 
 $get = $_GET;
 
+array_push($response, $get);
+
 include $_ENV['ROOT'] . '/🛰/templates/catalog/product/search.php';
 
 echo '<script>var catalogDebug = ' . json_encode($response, JSON_PRETTY_PRINT + JSON_UNESCAPED_UNICODE + JSON_UNESCAPED_SLASHES) . ';console.debug(catalogDebug)</script>';
