@@ -1,6 +1,6 @@
 <?php
 
-define('MYSQL_SERVER', 'remotemysql.com');
-define('MYSQL_USER', 'KtNVE9E8Bi');
-define('MYSQL_PASS', 'zcFjgYxmiX');
-define('MYSQL_DB', 'KtNVE9E8Bi');
+define('MYSQL_SERVER', 'sql7.freemysqlhosting.net');
+define('MYSQL_USER', 'sql7316630');
+define('MYSQL_PASS', 'd9jzXxPDSd');
+define('MYSQL_DB', 'sql7316630');
