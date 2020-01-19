@@ -9,14 +9,14 @@
   "builds": [
     {
       "src": "*.php",
-      "use": "now-php-with-mysqli",
+      "use": "now-php",
       "config": {
         "maxLambdaSize": "100mb"
       }
     },
     {
       "src": "**/**.php",
-      "use": "now-php-with-mysqli",
+      "use": "now-php",
       "config": {
         "maxLambdaSize": "100mb"
       }
